@@ -6,11 +6,9 @@ description: "Solar-powered lights can be used in many different ways, not only 
 tools: [UX Design]
 ---
 
-![](/assets/img/projects/hug-me-to-turn-me-on/Screenshot-2020-03-13-at-22.31.38.jpeg)
+{% include elements/video.html id="T6Bond1o0Ek" %}
 
 # Hug me to turn me on
-
-3 Videos TBA
 
 Solar-powered lights can be used in many different ways, not only as garden lights.
 
@@ -23,6 +21,12 @@ The shirt works on a principle of the lights turning on when the solar panel is 
 ## Report
 
 <object data="{{ '/assets/docs/projects/hug-me-to-turn-me-on/solar_power.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+
+## More videos
+
+{% include elements/video.html id="cntqPIeDI1M" %}
+
+{% include elements/video.html id="pYp28XomIhw" %}
 
 
 ### Project Team

@@ -14,7 +14,8 @@ Menopause. It is a natural process that hits around 50% of the population sooner
 
 During [STHLM Tech Fest](https://sthlm-tech-fest-hackathon.confetti.events), McKinsey Digital presented us with a challenge on the topic of menopause and the social stigmas around it. We took up the gauntlet and presented a line of timeless jewellery to help people going through perimenopause deal with hot flushes using active cooling technology.
 
-VIDEO TBA
+
+{% include elements/video.html id="Z2STrSiZlqw" %}
 
 _Video of a pitch given at McKinsey Digital._
 
@@ -39,8 +40,7 @@ _Develop an innovative product, service or campaign that tackles challenges and 
 
 ### Exploring the problem space
 
-![](/assets/img/projects/menopositive/df9f5e59-827d-4b04-b529-ed1506b0c66d.jpg)
-_Discussing and building on each other's ideas._
+{% include elements/figure.html image="/assets/img/projects/menopositive/df9f5e59-827d-4b04-b529-ed1506b0c66d.jpg" caption="Discussing and building on each other's ideas." %}
 
 To analyse problems in menopause and potential solutions, we employed the techniques of brain writing and brainstorming in combination with quick and dirty research. First, we did a quick search about menopause
 
@@ -59,8 +59,7 @@ Some unfiltered ideas that we had during the brainstorming were:
 - Positive quote bracelet, cup, mirror
 - Menopause helpline - talk to someone who understands
 
-![](/assets/img/projects/menopositive/056deb77-fd01-40d8-8c74-7854afcafd95.jpeg)
-_All the problems and solutions we came up with during brain writing and brainstorming_.
+{% include elements/figure.html image="/assets/img/projects/menopositive/056deb77-fd01-40d8-8c74-7854afcafd95.jpeg" caption="All the problems and solutions we came up with during brain writing and brainstorming" %}
 
 #### Reddit research
 
@@ -102,12 +101,9 @@ Originally, we thought of making the person feel better about themselves during 
 
 The result of a rapid midnight prototyping can be seen in the following animation.
 
-![](/assets/vid/projects/menopositive/IMG_0239.m4v)
+{% include elements/figure.html image="/assets/img/projects/menopositive/IMG_0239.gif" caption="Rapid prototype of a light-up necklace made using an existing butterfly pendant and string lights hidden behind the scarf and the shirt." %}
 
-_Rapid prototype of a light-up necklace made using an existing butterfly pendant and string lights hidden behind the scarf and the shirt._
-
-![](/assets/img/projects/menopositive/IMG_0241.jpg)
-_Midnight prototyping tools._
+{% include elements/figure.html image="/assets/img/projects/menopositive/IMG_0241.jpg" caption="Midnight prototyping tools." %}
 
 We feared that people do not want extra addition during this uncomfortable hot flush. Indeed, a [follow-up post](https://www.reddit.com/r/Menopause/comments/d12wn9/menopositive_part_2_your_input_needed_for_a/) revealed that while our target group found the jewellery idea pretty, they did not care much for the compliments and found little value in interactive jewellery. Instead, they wanted something that would serve a **practical purpose** and cool them down during a hot flush.
 
@@ -117,7 +113,13 @@ Therefore, we designed a line of **cooling jewellery**. The cooling elements are
 
 Although we let Reddit help us with [deciding on the design](https://www.reddit.com/r/Menopause/comments/d18vw4/menopositive_3_help_us_decide_on_jewellery_design/?ref=share&ref_source=embed&utm_content=title&utm_medium=post_embed&utm_name=6c575850590d4eedb7717f3c98ddb990&utm_source=embedly&utm_term=d18vw4), we ended up wearing a variety of different styles during the final presentation.
 
-![](/assets/img/projects/menopositive/IMG_0247.jpg)
+
+{% capture carousel_images %}
+{{ '/assets/img/projects/menopositive/IMG_0248.jpg' | relative_url }}
+{{ '/assets/img/projects/menopositive/IMG_0244.jpg' | relative_url }}
+{{ '/assets/img/projects/menopositive/IMG_0245.jpg' | relative_url }}
+{% endcapture %}
+{% include elements/carousel.html %}
 
 The jewellery line promises a 10-fold margin which is promising for any investor. Due to using the more sustainable stainless steel instead of silver and relatively cheap Peltier elements, the production costs can be kept low. However, we did not initially take into account the overhead production costs and whether button batteries will be enough to power the thermoelectric cooling elements on a desired level. These are the areas that need follow-up research before it can be said with certainty that this business idea is fully feasible. However, when there is a will, there is a way, and surely the power issues can be solved one way or another.
 
@@ -127,7 +129,7 @@ I wish to thank the team with whom we tackled this challenge in the short time o
 
 * * *
 
-![](/assets/img/projects/menopositive/20190908_090349.jpg)
+![](/assets/img/projects/menopositive/20190908_180659.jpg)
 
 ### Project team
 
