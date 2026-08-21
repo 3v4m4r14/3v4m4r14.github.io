@@ -10,13 +10,15 @@ tools: [Storytelling, UX Design]
 
 # Sofa Volume Slider
 
-VIDEO TBA
-
 What if we could control devices with our soma?
 
 What if simple interactions required the use of our whole bodies?
 
 Sofa Volume Slider is a sneak peek into the world of physical interactions and encouraged conversations.
+
+{% include elements/highlight.html text="Because of copyrighted content, you will have to go to YouTube to watch the video, but it is well worth it, I promise!" %}
+
+{% include elements/video.html id="aaSCrlPqhYU" %}
 
 ### Project Team
 

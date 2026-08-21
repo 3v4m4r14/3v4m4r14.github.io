@@ -37,20 +37,19 @@ Some of the features of the final design:
 - Daily conversation topics
 - Unlocking information about other users by answering questions about them
 
-* * *
+## Demo video
+
+{% include elements/video.html id="W6W9ZfuMcVI" %}
+
+
+## Graphics
 
 ![](/assets/img/projects/13-seconds-why/concept-board_1.png)
     
 ![](/assets/img/projects/13-seconds-why/Storyboard_v4.png)
  
 ![](/assets/img/projects/13-seconds-why/concept-board-3.png)
- 
 
-* * *
-
-Demo video TBA
-
-* * *
 
 ##### Team members:
 

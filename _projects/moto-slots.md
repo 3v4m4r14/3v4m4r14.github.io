@@ -14,6 +14,8 @@ Moto Slots is a playful slot machine game, inspired by my motorcycling group’s
 
 **Try it here:** [https://3v4m4r14.github.io/motoslots/](https://3v4m4r14.github.io/motoslots/)
 
+{% include elements/video.html id="CzWlRtGnXZw" %}
+
 ## Key Features
 
 - **Jackpot Wins:** Exciting jackpot mechanics to enhance gameplay.
