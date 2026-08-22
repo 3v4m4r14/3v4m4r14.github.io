@@ -106,3 +106,5 @@ Creating a proper survey is a difficult task. Badly made surveys are tedious to 
 Do interviews instead.
 
 On a side note, if anyone ever needs feedback on their survey or someone to do a pilot run with, let me know. I enjoy ripping surveys to shreds.
+
+<object data="{{ '/assets/docs/posts/welcome-to-every-researchers-worst-nightmare/Remote-Meeting-Experience.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>

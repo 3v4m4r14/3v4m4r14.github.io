@@ -46,3 +46,5 @@ Lastly, Slush venue looks amazing. It is big, divided into multiple sections. Th
 One of the speakers who I had the pleasure of driving to the airport, mentioned something along the same lines. The **speakers are supposed to come to Slush out of their own goodwill**, pay for their hotel out of their own goodwill, cover all expenses themselves out of their own goodwill. Once they are there, they are presented with all that waste of money and feel slightly disappointed. I am sure it would have been possible to reallocate the costs on the venue decorations just a bit to make the speakers feel more appreciated.
 
 In the end, the Finns have made something great out of the downfall of Nokia. They have taken matters in their own hands and came out of it successfully. Nevertheless, from this volunteer’s point of view, Slush still has a long way to go. Maybe even on a reverse gear?
+
+<object data="{{ '/assets/docs/posts/driving-through-slush/slush-volunteer-certificate-2019.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
