@@ -2,11 +2,13 @@
 title: Maakad ei väärigi uhkeid asju
 date: 2026-08-24T21:21:06.000Z
 image: /assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_3543.jpeg
-description: 
+description:
 tags:
   - UX
   - opinion
+
 ---
+
 Mulle ei meeldi koristada. Välja arvatud siis, kui ma pean midagi muud olulist tegema, näiteks eksamiteks õppima - mida ma pole enam ammu teinud, sest ma lõpetasin ülikooli mitu-setu aastat tagasi. Seega pean aeg-ajalt vastumeelselt koristama. Kuna meil on koer, kellel on karvavahetus kaks korda aastas - jaanuarist juunini ja juulist detsembrini - näeb see _aeg-ajalt_ rohkem välja nagu igapäevane tegevus.
 
 Olen päris paljusid asju proovinud, et koristamist hõlpsamaks muuta. Kõige suurem ja parem investeering on olnud robottolmuimejasse. Imeline seadeldis. Panen telefonist tööle ja urrab iseseisvalt kõik toad läbi, välja arvatud vannituba, mille ukselävest ta üle ei saa. Ei kujuta enam elu ilma robottolmuimejata ette. Kindlasti asi, millesse olen valmis investeerima.
@@ -35,13 +37,13 @@ Esimene ohumärk oleks pidanud olema mustmiljon e-kirja kullerifirmalt. Ausõna,
 
 Lubatud oli kohaletoimetamine 3-5 päevaga. Viienda päeva õhtul tuli kiri: 
 
-![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot%202026-08-24%20at%2022.08.29.png)
+![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot1.png)
 
 Arusaadav. Ikka juhtub, eriti kui on suur allahindluskampaania. Kuna kiri palus ilusti klienditoega _mitte_ kontakteeruda, siis ma seda ka ei teinud. Milleks. Ütlesid ju, et varsti saadab kullerfirma jälgimiskoodi ja peagi ongi mu pakk ukse taga ja saan diivani karvapallide alt välja kaevata.
 
 Siis aga tuli järgmisel päeval, mis oli ühtlasi laupäev, mil Dysoni klienditeenindus ei ole kättesaadav, säärane kiri:
 
-![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot%202026-08-24%20at%2022.07.00.png)
+![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot2.png)
 
 Kogu mu elevus asendus pettumuse ja segadusega. Kuna ma koristada saan? Mis andmed puudu olid? Miks nad minult täpsustust ei küsinud, selmet tellimus tühistada?! Ja üleüldsegi - kus mu raha on?
 
