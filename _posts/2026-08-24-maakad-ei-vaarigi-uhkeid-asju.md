@@ -75,6 +75,10 @@ Sellest kõigest ma järeldan, et maakad ei väärigi selliseid uhkeid asju nagu
 
 Mitte midagi. Panin aga uue tellimuse sisse, seekord linnaaadressiga. Aga halb maitse (ja tolmurull) jäi suhu ning siiralt loodan, et ma ei pea enam kunagi Dysoni klienditeenindusega kokku puutuma.
 
+***
+
+Libista paremale-vasakule, et minu ja Rahuli vestlust lugeda:
+
 {% capture carousel_images %}
 {{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4234.jpeg' | relative_url }}
 {{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4235.jpeg' | relative_url }}
