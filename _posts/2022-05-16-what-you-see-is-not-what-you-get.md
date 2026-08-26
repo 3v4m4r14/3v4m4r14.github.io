@@ -1,7 +1,7 @@
 ---
 title: What you see is *not* what you get
 date: 2022-05-16T16:45:58.000Z
-image: /assets/img/posts/what-you-see-is-not-what-you-get/IMG_2201.jpg
+image: /assets/img/posts/what-you-see-is-not-what-you-get/IMG_2201.webp
 description: 
 tags:
   - opinion
@@ -55,7 +55,7 @@ Elisa’s email made me feel like an indistinguishable part of a faceless mass, 
 
 Furthermore, Elisa tried upselling their update as something beneficial, writing vaguely about customer feedback, overall growth in mobile data consumption, and regulatory changes, whilst mentioning the price increase matter-of-factly. The email even spelt out the price change in words instead of numbers, so that it would be harder for the reader to grasp quickly (_because who even reads such emails in detail?_). This made it easy to see the benefits of the change (more mobile data) and difficult to notice the expense (increased pricing). Honestly, I am less annoyed about the price increase than about them trying to hide the fact. Although not lying, it felt dangerously close to deception.
 
-{% include elements/figure.html image="/assets/img/posts/what-you-see-is-not-what-you-get/image.png" caption="An excerpt from the original email from Elisa. What hits you in the eye?" %}
+{% include elements/figure.html image="/assets/img/posts/what-you-see-is-not-what-you-get/image.webp" caption="An excerpt from the original email from Elisa. What hits you in the eye?" %}
 
 {% include elements/video.html id="r3hTwsvJV_A" %}
 

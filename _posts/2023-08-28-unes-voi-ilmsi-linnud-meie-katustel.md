@@ -1,7 +1,7 @@
 ---
 title: 'Unes või ilmsi: linnud meie katustel'
 date: 2023-08-28T14:35:25.000Z
-image: /assets/img/posts/unes-voi-ilmsi-linnud-meie-katustel/IMG_1898.jpg
+image: /assets/img/posts/unes-voi-ilmsi-linnud-meie-katustel/IMG_1898.webp
 description: 
 tags:
     - animals
@@ -12,7 +12,7 @@ Meie majas ei tundunud kajakatega probleemi olevat. Maja on ehitatud L-kujulisel
 
 Igatahes, nagu öeldud, siis meie majas ei tundunud kajakaid olevat.
 
-![close up of bird perching on wood](/assets/img/posts/unes-voi-ilmsi-linnud-meie-katustel/pexels-photo-325258.jpeg)
+![close up of bird perching on wood](/assets/img/posts/unes-voi-ilmsi-linnud-meie-katustel/pexels-photo-325258.webp)
 
 Kuni ühel hommikul äratas mind kajakakisa. Häältest oli kosta, et tegemist on perega, sest üks räuskas kiledamalt kui teised. Väikesel kajakapojal polnud veel häälemurret olnud.
 
@@ -32,7 +32,7 @@ Taaskord kostus nende koor varastel hommikutundidel. Taaskord ei saanud ma magad
 
 Mõtlesin mitmel hommikul, et lähen ja viskan midagi nende suunas, et neid minema peletada. Oleksin isegi katusele roninud, kui oleks viitsinud midagi selga panna. Teisalt kartsin, et varesed on targad linnud ja neis võib tekkida kättemaksuiha. Kes teab, kus nad mulle pärast kambaka teevad ja silmad peast nokivad. Niisiis jäid hommikused vihased mõtted vaid mõteteks.
 
-![black bird perching on concrete wall with ocean overview](/assets/img/posts/unes-voi-ilmsi-linnud-meie-katustel/pexels-photo-953150.jpeg)
+![black bird perching on concrete wall with ocean overview](/assets/img/posts/unes-voi-ilmsi-linnud-meie-katustel/pexels-photo-953150.webp)
 
 Eile hommikul oli varesepere taaskord platsis. Nende õnneks olin nii väsinud, et ei jaksanud kisa peale voodis istukilegi tõusta. Keerasin hoopis külge ja magasin todisedes edasi.
 

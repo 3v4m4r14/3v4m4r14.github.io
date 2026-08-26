@@ -1,7 +1,7 @@
 ---
 title: Ülestunnistus
 date: 2020-10-03T11:14:44.000Z
-image: /assets/img/posts/ulestunnistus/IMG_0845.jpeg
+image: /assets/img/posts/ulestunnistus/IMG_0845.webp
 description: "Essay from April 2015 submitted to a competition by Metsaülikool and published in a collection of articles in 2020."
 tags:
     - application
@@ -17,7 +17,7 @@ Essay from April 2015 submitted to a competition by Metsaülikool and published 
 > 
 > Kuigi nutiseadmetest Eva veel täielikult loobunud pole, leiab ta, et pärismaailm on siiski palju põnevam kui digitaalne, ja soovitab kõigil mõnikord ekraanist kaugemale vaadata.
 
-![](/assets/img/posts/ulestunnistus/IMG_0794.jpeg)
+![](/assets/img/posts/ulestunnistus/IMG_0794.webp)
 
 ---
 
@@ -53,4 +53,4 @@ Tean inimesi, kes on otsustanud nõiaringist pääsemiseks oma nutitelefonid nur
 
 Olgugi et tänapäeval pööratakse tähelepanu noorte ekraanisõltuvuse probleemile, millised tervislikud ja sotsiaalsed hälbed sellega kaasnevad, kui kohutav see ikka on, et lastele juba noorelt nutitelefonid ja tahvelarvutid ostetakse, on tehnoloogia areng paratamatu ja seda ei tuleks vaadelda kui haigust, vaid kui võimalust. Maailm areneb, keegi ei kujutaks enam ette elu keskajal, kui sidevahendeid praktiliselt ei eksisteerinud ja meditsiin oli pea olematu. Tänapäevane tervisehoid suudab edukalt ennetada ja ravida erinevaid vaevusi, sealhulgas ka nutiseadmetega kaasnevaid. Pealegi on loodusel omadus jätkusuutlikkuse poole muutuda ja areneda. Võib-olla aastate pärast eksisteerib küürselgsete kõversõrmeliste punnsilmsete inimeste generatsioon, kes on kohastunud kasutama nutiseadmeid ilma mingisuguste kaasnevate probleemideta.
 
-![](/assets/img/posts/ulestunnistus/IMG_0848.jpeg)
+![](/assets/img/posts/ulestunnistus/IMG_0848.webp)

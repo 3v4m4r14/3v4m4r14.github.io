@@ -1,7 +1,7 @@
 ---
 title: From worries to motivations
 date: 2020-02-14T14:49:18.000Z
-image: /assets/img/posts/from-worries-to-motivations/IMG_2380.jpeg
+image: /assets/img/posts/from-worries-to-motivations/IMG_2380.webp
 description: 
 tags:
   - design

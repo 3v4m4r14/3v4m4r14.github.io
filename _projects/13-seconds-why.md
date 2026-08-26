@@ -1,12 +1,12 @@
 ---
 name: "13'' WHY"
 date: "2019-01-31T00:00:00.000Z"
-image: /assets/img/projects/13-seconds-why/concept-board_1.png
+image: /assets/img/projects/13-seconds-why/concept-board_1.webp
 description: "Redesigning Tinder for Digital Intimacy"
 tools: [Product Design, UX Design]
 ---
 
-![](/assets/img/projects/13-seconds-why/concept-board-3.png)
+![](/assets/img/projects/13-seconds-why/concept-board-3.webp)
 
 # 13'' WHY
 > Redesigning Tinder for Digital Intimacy
@@ -44,11 +44,11 @@ Some of the features of the final design:
 
 ## Graphics
 
-![](/assets/img/projects/13-seconds-why/concept-board_1.png)
+![](/assets/img/projects/13-seconds-why/concept-board_1.webp)
     
-![](/assets/img/projects/13-seconds-why/Storyboard_v4.png)
+![](/assets/img/projects/13-seconds-why/Storyboard_v4.webp)
  
-![](/assets/img/projects/13-seconds-why/concept-board-3.png)
+![](/assets/img/projects/13-seconds-why/concept-board-3.webp)
 
 
 ##### Team members:

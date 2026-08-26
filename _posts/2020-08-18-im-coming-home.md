@@ -1,7 +1,7 @@
 ---
 title: I'm coming home
 date: 2020-08-18T16:53:09.000Z
-image: /assets/img/posts/im-coming-home/IMG_0377.jpeg
+image: /assets/img/posts/im-coming-home/IMG_0377.webp
 description: 
 tags:
 ---

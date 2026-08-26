@@ -1,7 +1,7 @@
 ---
 title: "Kontoripäevikud"
 date: "2025-03-07T00:00:00.000Z"
-image: /assets/img/posts/kontoripaevikud/IMG_9326.jpeg
+image: /assets/img/posts/kontoripaevikud/IMG_9326.webp
 description: 
 tags:
     - work

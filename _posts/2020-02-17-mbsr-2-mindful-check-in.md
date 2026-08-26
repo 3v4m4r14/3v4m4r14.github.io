@@ -1,7 +1,7 @@
 ---
 title: 'MBSR 2: Mindful check-in'
 date: 2020-02-17T14:53:12.000Z
-image: /assets/img/posts/mbsr-2-mindful-check-in/IMG_0335.jpeg
+image: /assets/img/posts/mbsr-2-mindful-check-in/IMG_0335.webp
 description: "Exercise in mindfulness"
 tags:
   - mind

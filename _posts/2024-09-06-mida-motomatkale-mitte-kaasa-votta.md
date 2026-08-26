@@ -1,7 +1,7 @@
 ---
 title: Mida motomatkale mitte kaasa võtta
 date: 2024-09-06T16:48:30.000Z
-image: /assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6825.jpeg
+image: /assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6825.webp
 description: "Käisime Nordkappis (Kapis?). Kahe matkarattaga. Kokku kuue kohvriga, kõik asju täis. Ilmselgelt liiga palju asju pooleteise nädala jaoks. Millest oleks pidanud loobuma?"
 tags:
     - moto
@@ -14,7 +14,7 @@ Käisime Nordkappis (Kapis?). Kahe matkarattaga. Kokku kuue kohvriga, kõik asju
 
 Pakkides pendeldas kuklas endine kolleeg: “Viis paari aluspükse peab alati kaasas olema, juhuks kui end täis si\*ud.” Aga tegelikult ei pea, sest tõenäosus, et see viis korda juhtub… Mina ütleks, et **piisab, kui kõike on kolm**. Kaks tundub vähe, sest äkki ei kuiva ära ja kes see ikka niiske kannikaga ringi tatsata tahab. Kuigi kõige paremini kuivavad riided seljas, nii et võta näpust. Seitse vs kaks – teeme edaspidi kompromissi kolmele, üks pluusidest fliissärk ja üks sokipaar villane (tõsine MVP, kui jalad peaksid märjaks saama).
 
-![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6744.jpeg)
+![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6744.webp)
 
 Piisanud oleks ka ühest paarist motosaabastest – veekindlatest. Mina võtsin kaks, sest mulle meeldib tossutüüpi saabastega rohkem sõita – harjunud ja hingavad paremini. Aga motomatkal, kus iga gramm ja sentimeeter loeb, oleksin ka ainult veekindlatega hakkama saanud. Sest see üks kord, kus vihmaga kogemata ketsid jalga jäid, lõppes ligemärgade varvastega ja sellega, et kahel järjestikusel päeval kuivatasin oma tosse nii saunalaval kui fööniga. Tuleb lihtsalt higised varbad veekindlates saabastes ära kannatada. Häid nippe pärast haisu välja saamiseks??
 
@@ -36,7 +36,7 @@ Igatahes, loogika oli, et kaamera ees peab ilus välja nägema, seega tuleb meik
 
 Niisiis, kuigi meik ei võtnud palju ruumi, võtan edaspidi kaasa ainult niisutava kreemi ja ripsmetuši, kui sedagi.
 
-![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_0413.jpg)
+![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_0413.webp)
 
 ## Magamisasjad
 
@@ -44,13 +44,13 @@ Minul oli lootus reisi jooksul võimalikult palju looduses ööbida. Sellest tul
 
 Põhja pool pelgasime külma ööd, niisiis peatusime tihti AirBnb-des või Bookingust leitud kohtades. Kindlasti kallim kui telkimine, aga teisalt oli ka mugavam. Tulevikus oleks mõistlik **teha kogu reis kas ainult majutustes ööbides või igal ööl telkides** (ja ainult paar ööd majutuses). Muidu pole tõesti paari öö jaoks mõtet telki, magamiskotte, madratseid, pleede ja tont teab mida kaasa tarida.
 
-![two adventure motorcycles in front of a log cabin, trees in the background, forest plants in the foreground](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6805.jpeg)
+![two adventure motorcycles in front of a log cabin, trees in the background, forest plants in the foreground](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6805.webp)
 
 ## Toit ja kokkamisvarustus
 
 Jätkatest eelmist lõiku, siis kui me oleks ööbinud ainult köökidega majutustes, poleks me pidanud kaasa tarima ka gaasipõletit, matkapotti, -panni, termost, nuga-kahvel-lusikat, konserve, kiirnuudleid ja toidupakikesi. Niikuinii käisime pidevalt **tanklates söömas-joomas ja õhtuti poes**. Suureks-väikseks käiva joogipudeli viskasin lihtsalt poolel teel minema (loe: jätsin metsamajakesse järgmistele matkajatele omastamiseks).
 
-![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6772.jpeg)
+![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6772.webp)
 
 ## “Naisteasjad”
 
@@ -62,4 +62,4 @@ Nagu näha, siis kaasas oli väga palju ebavajalikku ja seega ratas ülemäära 
 
 **Mida sina oma (moto)matkadele kaasa pakid ja välja praagid?** 💬👇
 
-![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6926.jpeg)
+![](/assets/img/posts/mida-motomatkale-mitte-kaasa-votta/IMG_6926.webp)

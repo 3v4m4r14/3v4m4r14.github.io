@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-![](/assets/img/pages/home/weird-profile-pic.jpeg)
+![](/assets/img/pages/home/weird-profile-pic.webp)
 
 # About Eva
 
@@ -39,7 +39,7 @@ Unlike others with the D style, Eva prioritises **maintaining a positive, upbeat
 
 *Taken in December 2020
 
-![](/assets/img/pages/about/disc-results.png)
+![](/assets/img/pages/about/disc-results.webp)
 
 ---
 
@@ -55,4 +55,4 @@ Eva collects things, be it information, thoughts, or tangible objects. She files
 
 **Taken in October 2020
 
-![](/assets/img/pages/about/clifton-strengths-results.png)
+![](/assets/img/pages/about/clifton-strengths-results.webp)

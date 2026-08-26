@@ -1,7 +1,7 @@
 ---
 title: Hogwarts on Earth
 date: 2019-09-10T17:02:21.000Z
-image: /assets/img/posts/hogwarts-on-earth/IMG_20191028_175320.jpeg
+image: /assets/img/posts/hogwarts-on-earth/IMG_20191028_175320.webp
 description: "When I started my Master's, I basically saw it as a way to live abroad for a while, experience new cultures, and meet new people. It has been all that and much more!"
 tags:
   - review

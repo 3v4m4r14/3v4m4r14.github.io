@@ -1,7 +1,7 @@
 ---
 title: I feel like swimming through the air
 date: 2020-02-15T15:55:11.000Z
-image: /assets/img/posts/i-feel-like-swimming-through-the-air/IMG_2387.jpeg
+image: /assets/img/posts/i-feel-like-swimming-through-the-air/IMG_2387.webp
 description: "I went to a lesson of contact improvisation by Kahbam and Loby Lam. Contact improvisation is a form of improvised dancing that focuses on body awareness, sharing touch, weight, body contact, and movement."
 tags:
   - body
@@ -27,7 +27,7 @@ Next, we practised leaning and falling in a circle. One of us would stand in the
 
 Once everyone had been “pushed around” in the circle, we did some individual exercises and then paired up again, exploring rolling and sliding. One person acted as a support, like a relatively volatile rock or a mountain, while the other tried to find pathways for moving around said rock. The supporter had to constantly shift their position and posture to ensure that the partner had enough surface to move and enough possibilities to sink their weight into the supporting person. It was certainly interesting and rather difficult. When rolling and sliding, I felt like I was getting stuck, repeating the same movements over and over again, not being able to find alternative pathways without feeling unnatural, losing my balance and collapsing into the floor like a sad pile of wet laundry.
 
-![](/assets/img/posts/i-feel-like-swimming-through-the-air/IMG_2384.jpeg)
+![](/assets/img/posts/i-feel-like-swimming-through-the-air/IMG_2384.webp)
 
 Throughout the session, I enjoyed the role of support more. I could simply make sure my body was underneath someone else’s and push upwards, trying to lift them up from the ground. I felt like I had more purpose than simply sliding around all over the place.
 

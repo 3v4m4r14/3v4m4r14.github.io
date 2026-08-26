@@ -1,7 +1,7 @@
 ---
 title: Lebensgefährte
 date: 2021-05-14T15:03:40.000Z
-image: /assets/img/posts/lebensgefahrte/IMG_2232.jpeg
+image: /assets/img/posts/lebensgefahrte/IMG_2232.webp
 description: 
 tags:
     - poetry

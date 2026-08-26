@@ -1,7 +1,7 @@
 ---
 title: Why I won't tell people to "look it up"​ anymore
 date: 2019-03-21T14:24:32.000Z
-image: /assets/img/posts/why-i-wont-tell-people-to-look-it-up-anymore/pexels-photo-221164.jpeg
+image: /assets/img/posts/why-i-wont-tell-people-to-look-it-up-anymore/pexels-photo-221164.webp
 description: 
 tags:
   - opinion

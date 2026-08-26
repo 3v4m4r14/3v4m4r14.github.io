@@ -1,7 +1,7 @@
 ---
 title: The future of the Electronic Medical Record
 date: 2020-09-06T17:54:47.000Z
-image: /assets/img/posts/the-future-of-the-electronic-medical-record/login.png
+image: /assets/img/posts/the-future-of-the-electronic-medical-record/login.webp
 description: "Test task for UI/UX designer at Nortal"
 tags:
     - project

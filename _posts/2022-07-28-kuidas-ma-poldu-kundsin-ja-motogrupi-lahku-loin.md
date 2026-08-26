@@ -1,7 +1,7 @@
 ---
 title: Kuidas ma põldu kündsin ja motogrupi lahku lõin
 date: 2022-07-28T08:30:16.000Z
-image: /assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2562.jpg
+image: /assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2562.webp
 description: "Hoiatus: oma vaimse tervise huvides on rangelt soovituslik mitte edasi lugeda, kui omad minuga veresugulust!"
 tags:
     - moto
@@ -26,11 +26,11 @@ Minu häda sai alguse siis, kui olime seltskonnaga matkajärgselt liikumas. Nema
 
 Päädis see kõik sellega, et üks kurv, mis ma arvasin kena kurv olevat, ei olnudki kurv – oli hoopis poolkurv. Tegelikult oli see ristmik ja kui minusugune algaja kalmaar sellest keset pööret aru sai, tegi mu kogenematu aju mingid ebanormaalsed kalkulatsioonid selle kohta, et mis oleks kui sealt oleks tegelikult hoopis auto tulnud. Mis sest, et silmapiiril polnud ühtki autot näha ja kui ratastega tädil till oleks, oleks ta omnibuss. Sellest piisas, et enesealalhoiuinstinkt käivitada ja tsikkel lollaka refleksi ajel kaldest välja lükata. Kõige hullem asi, mida rattur keset kurvi teha saab.
 
-{% include elements/figure.html image="/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2564.jpg" caption="Kurv, mis tegelikult oli ristmik ja mille keskel mu aju kokku jooksis." %}
+{% include elements/figure.html image="/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2564.webp" caption="Kurv, mis tegelikult oli ristmik ja mille keskel mu aju kokku jooksis." %}
 
 Seda, kuidas ma reaalselt teelt välja lendasin, oleks olnud tore hiljem kaamera pealt vaadata. Mäletan vaid, kuidas nägin kord taevast, siis maad, siis tsiklit, siis mulda ja olingi põllu peal lebamas, üks saabas natuke maad eespool ja suksu pire tagapool külili pikutamas. Tõenäoliselt kaevas esiratas end läbi Eurokraavi lennates pehmesse mulda kinni, viskas tagaotsa õhku ja nii me seal rattaga kahekesi uperpallitasime nagu vanaisa aluspüksid pesumasina trumlis. Kindlalt ei tea midagi, sest ma olin täiesti üksi ja kehavälist kogemust õnneks või kahjuks ei tekkinud.
 
-{% include elements/figure.html image="/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2566.jpg" caption="Minu küntud kartulivagu!" %}
+{% include elements/figure.html image="/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2566.webp" caption="Minu küntud kartulivagu!" %}
 
 Uhkus ja adrenaliin ei lubanud mul kedagi appi ka kutsuda. Otsisin oma kadunud saapakese üles ja sakutasin tsikli püsti. Autokoolis õpetatud meetod ei aidanud, sest katsu sa libeda muru ja lahtise mulla peal jalgadele tuge leida. Tõstsin selgade, jalgade, oma rammu ja püha vihaga ja tõstetud see masin sai. Edasi oli vaja põllult ära saada. Ümberringi oli sügav kraav. Tuldud teed pidi tagasi minek polnud variant ja mujalt oleks välja saanud vast ainult siis, kui ma oleks kuskilt talust mõne laua või platformi küsinud. Nagu ma juba ütlesin, kole piinlik oli seal keset põldu kükitada ja kuigi ma sisimas lootsin, et mõni prints valgel hobusel sõidab mööda ja pakub hädas neiule abikätt, siis ise nagu otsima ei kippunud. Ainus variant tundus olevat üle põllu põristada ja teises otsas traktorirajalt väljuda.
 
@@ -40,9 +40,9 @@ Kui ma lõpuks kindlale pinnale sain, parkisin tsikli ja hindasin kahjusid. Tsik
 
 Peputasin veidi aega seal maas. Helistasin kallimale, kes sai loomulikult kreepsu, kuuldes, et ma kuskil teises Eesti otsas üksinda põldu künnan. Natuke energiat kogunud, proovisin oma tükid-jupid ratta peale kokku laduda ja sõitsin sõpradele järele. Saun oli hea ja sinikaid veel ei paistnud. Järgmisel päeval tuli peiks autoga minu juurde, tegime masinavahetust. Mina sõitsin autoga tagasi päälinna, tema läks minu ribadeks tsiklit putitama. Peiks on mul vahva asjapulk. Nagu naine teeb mitte millestki õhtusööki, tegi tema mu tsiklile praktiliselt õhust uue tagaotsa. Seal on mingit suvalist plasti, nipukaid, kuuma liimi… Eemalt vaadates ei saa arugi, et nii olema ei pea.
 
-![](/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2573.jpg)
+![](/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2573.webp)
 
-![](/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2572.jpg)
+![](/assets/img/posts/kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin/IMG_2572.webp)
 
 ## Kuidas ma kohvikruusi pugesin
 

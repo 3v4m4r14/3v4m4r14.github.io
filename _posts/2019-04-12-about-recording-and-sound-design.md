@@ -1,7 +1,7 @@
 ---
 title: About Recording And Sound Design
 date: 2019-04-12T11:05:44.000Z
-image: /assets/img/posts/about-recording-and-sound-design/55752545_529367050926329_4026940871210434560_n.png
+image: /assets/img/posts/about-recording-and-sound-design/55752545_529367050926329_4026940871210434560_n.webp
 description: "Getting to the end result of a sound design project is no piece of cake."
 tags:
   - sound design

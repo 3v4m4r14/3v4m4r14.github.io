@@ -1,7 +1,7 @@
 ---
 name: "Where's my stuff? - a package journey"
 date: "2025-02-09T00:00:00.000Z"
-image: /assets/img/projects/wheres-my-stuff-a-package-journey/Wheres-my-stuff-a-package-journey.png
+image: /assets/img/projects/wheres-my-stuff-a-package-journey/Wheres-my-stuff-a-package-journey.webp
 description: "A story about a confusing delivery."
 tools: [UX Design]
 ---

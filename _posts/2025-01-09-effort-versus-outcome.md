@@ -1,7 +1,7 @@
 ---
 title: Effort versus Outcome
 date: 2025-01-09T14:58:18.000Z
-image: /assets/img/posts/effort-versus-outcome/IMG_8369.jpeg
+image: /assets/img/posts/effort-versus-outcome/IMG_8369.webp
 description:
 tags:
   - home

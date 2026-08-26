@@ -22,11 +22,11 @@ And so have I.
 2019
 
 {% capture carousel_images %}
-{{ '/assets/img/posts/a-metal-bird/IMG_0589.jpeg' | relative_url }}
-{{ '/assets/img/posts/a-metal-bird/IMG_0596.jpeg' | relative_url }}
-{{ '/assets/img/posts/a-metal-bird/IMG_0602-2.jpeg' | relative_url }}
-{{ '/assets/img/posts/a-metal-bird/IMG_0609.jpeg' | relative_url }}
-{{ '/assets/img/posts/a-metal-bird/IMG_0610.jpeg' | relative_url }}
-{{ '/assets/img/posts/a-metal-bird/IMG_0611.jpeg' | relative_url }}
+{{ '/assets/img/posts/a-metal-bird/IMG_0589.webp' | relative_url }}
+{{ '/assets/img/posts/a-metal-bird/IMG_0596.webp' | relative_url }}
+{{ '/assets/img/posts/a-metal-bird/IMG_0602-2.webp' | relative_url }}
+{{ '/assets/img/posts/a-metal-bird/IMG_0609.webp' | relative_url }}
+{{ '/assets/img/posts/a-metal-bird/IMG_0610.webp' | relative_url }}
+{{ '/assets/img/posts/a-metal-bird/IMG_0611.webp' | relative_url }}
 {% endcapture %}
 {% include elements/carousel.html %}

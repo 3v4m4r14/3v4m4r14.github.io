@@ -1,7 +1,7 @@
 ---
 title: Shine bright like a diamond
 date: 2021-11-08T19:51:58.000Z
-image: /assets/img/posts/shine-bright-like-a-diamond/IMG_0789.jpg
+image: /assets/img/posts/shine-bright-like-a-diamond/IMG_0789.webp
 description: 
 tags:
 

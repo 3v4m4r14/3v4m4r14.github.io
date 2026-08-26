@@ -1,12 +1,12 @@
 ---
 name: "The Wildflower"
 date: "2019-09-02T00:00:00.000Z"
-image: /assets/img/projects/the-wildflower/55752545_529367050926329_4026940871210434560_n.png
+image: /assets/img/projects/the-wildflower/55752545_529367050926329_4026940871210434560_n.webp
 description: "A sound design project of a love story."
 tools: [Storytelling]
 ---
 
-![](/assets/img/projects/the-wildflower/55752545_529367050926329_4026940871210434560_n.png)
+![](/assets/img/projects/the-wildflower/55752545_529367050926329_4026940871210434560_n.webp)
 
 # The Wildflower
 
@@ -56,4 +56,4 @@ My sincere gratitude goes to all of the amazing voice actors I had the pleasure 
 
 And thank you, Rik, for pouring all this knowledge on us. With a twinkle in your eye, you could go on for hours about sounds, recording, and sound design.
 
-![](/assets/img/projects/the-wildflower/artworks-000518991576-eh2io4-t500x500.jpg)
+![](/assets/img/projects/the-wildflower/artworks-000518991576-eh2io4-t500x500.webp)

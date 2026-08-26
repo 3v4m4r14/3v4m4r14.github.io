@@ -1,7 +1,7 @@
 ---
 title: I had coffee around seven
 date: 2025-01-20T17:24:14.000Z
-image: /assets/img/posts/i-had-coffee-around-seven/create-a-featured-image-for-a-blog-post-the-scene.png
+image: /assets/img/posts/i-had-coffee-around-seven/create-a-featured-image-for-a-blog-post-the-scene.webp
 description:
 tags:
   - body

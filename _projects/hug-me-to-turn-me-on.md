@@ -1,7 +1,7 @@
 ---
 name: "Hug Me To Turn Me On"
 date: "2019-09-18T00:00:00.000Z"
-image: /assets/img/projects/hug-me-to-turn-me-on/Screenshot-2020-03-13-at-22.31.38.jpeg
+image: /assets/img/projects/hug-me-to-turn-me-on/Screenshot-2020-03-13-at-22.31.38.webp
 description: "Solar-powered lights can be used in many different ways, not only as garden lights."
 tools: [UX Design]
 ---

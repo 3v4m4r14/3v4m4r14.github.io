@@ -1,7 +1,7 @@
 ---
 title: 'TCD: Creative Thinking and Innovation'
 date: 2020-03-09T20:23:04.000Z
-image: /assets/img/posts/tcd-creative-thinking-and-innovation/CTI_PHOTO_2-1.jpeg
+image: /assets/img/posts/tcd-creative-thinking-and-innovation/CTI_PHOTO_2-1.webp
 description: 
 tags:
   - course
@@ -22,7 +22,7 @@ This process comes naturally to all of us. “Design thinking” is just a fancy
 
 Ideas should be pulled out of the head, put onto the paper, and into a prototype as fast as possible. It does not have to be a high fidelity prototype. It can be something as simple as a storyboard or a clay model. The prototype can also be just a part of a bigger whole, a component of the system if such decomposition is possible.
 
-![](/assets/img/posts/tcd-creative-thinking-and-innovation/CTI_EXERCISES.jpeg)
+![](/assets/img/posts/tcd-creative-thinking-and-innovation/CTI_EXERCISES.webp)
 
 The idea behind this is to have something tangible to get feedback on. Based on this feedback one can discover design flaws, improve, change, adapt, refine, and iterate.
 
@@ -54,7 +54,7 @@ Having goals creates too much pressure to perform which, in turn, hinders creati
 
 Instead, one needs an incubator. Ideas and solutions need time to incubate. They need time to evolve naturally, to either turn into beautiful peacocks or to rot away. Either path is fine. As there are no goals, succeeding is also virtually unimportant. Yes, it is great if our idea lives and becomes successful, but if it doesn’t, we ought not to beat ourselves up about it, but simply move on to another idea in our incubator.
 
-![](/assets/img/posts/tcd-creative-thinking-and-innovation/IMG_2632.jpeg)
+![](/assets/img/posts/tcd-creative-thinking-and-innovation/IMG_2632.webp)
 
 Fear of failure is one of the biggest obstacles for innovation. Some ways to create a positive culture that supports innovation are:
 
@@ -77,7 +77,7 @@ According to research done by the authors [Jeffrey Dyer, Hal Gregersen, and Clay
 
 **Associating**. They connect the dots. They put together puzzles. They take one thing from one domain and connect it to a completely other domain. I am not sure how to assess myself in this skill. I want to say that I am good and can think outside of the box. One recent example is maybe my idea of connecting student drivers with recycling stations or package delivery services. I think that one is actually a nice example of combinational thinking.
 
-![](/assets/img/posts/tcd-creative-thinking-and-innovation/CTI_PHOTO_2-1.jpeg)
+![](/assets/img/posts/tcd-creative-thinking-and-innovation/CTI_PHOTO_2-1.webp)
 
 #### Learn by doing
 
@@ -87,7 +87,7 @@ We learned more about each other by telling about objects that capture our creat
 
 We made tinfoil hats in ten minutes to learn about the importance of asking the right questions and getting to know your customer. Dare I say that we might have somewhat failed with that task as we did not focus on why or where our customer would want to wear the hat, but more about what our customer’s hobbies are, and built our hat design around that information.
 
-![](/assets/img/posts/tcd-creative-thinking-and-innovation/IMG_2631.jpeg)
+![](/assets/img/posts/tcd-creative-thinking-and-innovation/IMG_2631.webp)
 
 We drew paintings in pairs without talking to each other to learn more about ambiguity and not knowing what others are up to. Each of us had a pen and added things to the picture, building on what was already there. This felt a lot like an improv game where you build upon other’s ideas and define them further. Our drawing turned out beautiful.
 
@@ -97,4 +97,4 @@ We had a fun exercise on combinational thinking. We read news and combined them 
 
 With such a practical approach, we definitely had a lot of fun and, hopefully, will remember the topics better.
 
-![](/assets/img/posts/tcd-creative-thinking-and-innovation/IMG_2635.jpeg)
+![](/assets/img/posts/tcd-creative-thinking-and-innovation/IMG_2635.webp)

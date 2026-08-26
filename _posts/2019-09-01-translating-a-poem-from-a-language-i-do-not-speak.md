@@ -1,7 +1,7 @@
 ---
 title: Translating a poem from a language I do not speak
 date: 2019-09-01T14:56:28.000Z
-image: /assets/img/posts/translating-a-poem-from-a-language-i-do-not-speak/Screenshot-2019-09-05-at-23.11.26.png
+image: /assets/img/posts/translating-a-poem-from-a-language-i-do-not-speak/Screenshot-2019-09-05-at-23.11.26.webp
 description: "I had the opportunity to translate a poem for one of my projects (FireFlies). To be fair, we formulated the project in a way that created this opportunity."
 tags:
   - poetry

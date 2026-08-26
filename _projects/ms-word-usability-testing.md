@@ -1,12 +1,12 @@
 ---
 name: "MS Word Usability Testing"
 date: "2019-02-27T00:00:00.000Z"
-image: /assets/img/projects/ms-word-usability-testing/5.jpg
+image: /assets/img/projects/ms-word-usability-testing/5.webp
 description: "Usability testing session of the predefined styles feature of Microsoft Word."
 tools: [UX Design]
 ---
 
-![](/assets/img/projects/ms-word-usability-testing/5.jpg)
+![](/assets/img/projects/ms-word-usability-testing/5.webp)
 
 # MS Word Usability Testing
 

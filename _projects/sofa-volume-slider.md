@@ -1,12 +1,12 @@
 ---
 name: "Sofa Volume Slider"
 date: "2019-09-13T00:00:00.000Z"
-image: /assets/img/projects/sofa-volume-slider/svs.jpeg
+image: /assets/img/projects/sofa-volume-slider/svs.webp
 description: "What if we could control devices with our soma?"
 tools: [Storytelling, UX Design]
 ---
 
-![](/assets/img/projects/sofa-volume-slider/svs.jpeg)
+![](/assets/img/projects/sofa-volume-slider/svs.webp)
 
 # Sofa Volume Slider
 

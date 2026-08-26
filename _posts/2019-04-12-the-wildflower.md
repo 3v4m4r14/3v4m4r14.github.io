@@ -1,7 +1,7 @@
 ---
 title: The Wildflower
 date: 2019-04-12T10:19:58.000Z
-image: /assets/img/posts/the-wildflower/artworks-000518991576-eh2io4-t500x500.jpg
+image: /assets/img/posts/the-wildflower/artworks-000518991576-eh2io4-t500x500.webp
 description: "In the middle of a vast field of greenery grew a bedazzling lone Wildflower. She was born deep in the ground."
 tags:
   - storytelling

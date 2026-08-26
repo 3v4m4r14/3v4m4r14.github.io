@@ -1,7 +1,7 @@
 ---
 title: 'MBSR 4: Virgin meditation'
 date: 2020-02-23T05:20:00.000Z
-image: /assets/img/posts/mbsr-4-virgin-meditation/IMG_2592.jpeg
+image: /assets/img/posts/mbsr-4-virgin-meditation/IMG_2592.webp
 description: "I find it fascinating how the mind tricks us. When I close my eyes and meditate for 30 minutes, all sorts of peculiar things happen."
 tags:
   - body

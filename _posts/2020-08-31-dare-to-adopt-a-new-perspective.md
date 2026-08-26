@@ -1,7 +1,7 @@
 ---
 title: Dare to adopt a new perspective
 date: 2020-08-31T16:39:31.000Z
-/image: /assets/img/posts/dare-to-adopt-a-new-perspective/IMG_0542.jpeg
+/image: /assets/img/posts/dare-to-adopt-a-new-perspective/IMG_0542.webp
 description: "Yesterday, I went to buy myself some new glasses. My previous ones had slid off the motorcycle when I was taking off my helmet and landed right underneath my partner's foot."
 tags:
   - opinion
@@ -68,4 +68,4 @@ Third, **gut stuff is “_gut_” stuff**. And by “_gut_” I mean “_good_�
 
 Talking about time, the black-and-gold glasses should be ready within a week and the blue ones should take up to three weeks. Until then, I am still stuck with my “workout glasses” – the ones that stay firmly on my face, but make me dangerous in traffic. But that’s okay because I am not driving much anyway.
 
-![](/assets/img/posts/dare-to-adopt-a-new-perspective/IMG_0542.jpeg)
+![](/assets/img/posts/dare-to-adopt-a-new-perspective/IMG_0542.webp)

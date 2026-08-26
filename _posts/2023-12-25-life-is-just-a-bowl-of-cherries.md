@@ -1,7 +1,7 @@
 ---
 title: Life is a bowl of cherries
 date: 2023-12-25T15:49:47.000Z
-image: /assets/img/posts/life-is-a-bowl-of-cherries/cherry.jpeg
+image: /assets/img/posts/life-is-a-bowl-of-cherries/cherry.webp
 description: 
 tags:
   - body

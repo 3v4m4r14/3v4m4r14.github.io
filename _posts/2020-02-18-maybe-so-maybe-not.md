@@ -1,7 +1,7 @@
 ---
 title: Maybe so, maybe not
 date: 2020-02-18T18:13:44.000Z
-image: /assets/img/posts/maybe-so-maybe-not/IMG_1979.png
+image: /assets/img/posts/maybe-so-maybe-not/IMG_1979.webp
 description: 
 tags:
   - life

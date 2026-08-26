@@ -1,7 +1,7 @@
 ---
 title: EIT Alumni Startup Days x Women@EIT
 date: 2019-09-29T09:37:33.000Z
-image: /assets/img/posts/eit-alumni-startup-days-x-womeneit/fullsizeoutput_56d.jpeg
+image: /assets/img/posts/eit-alumni-startup-days-x-womeneit/fullsizeoutput_56d.webp
 description: "I had one of the best and most relaxing hackathon experiences yesterday at EIT Alumni Startup Days X Women@EIT."
 tags:
   - event

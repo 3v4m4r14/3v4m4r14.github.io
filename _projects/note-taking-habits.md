@@ -1,12 +1,12 @@
 ---
 name: "Note-Taking Habits"
 date: "2018-11-01T00:00:00.000Z"
-image: /assets/img/projects/note-taking-habits/IMG_4008.jpg
+image: /assets/img/projects/note-taking-habits/IMG_4008.webp
 description: "This case study on note-taking habits was a user research project for familiarising myself with common user research concepts, measures, and methods."
 tools: [UX Design]
 ---
 
-![](/assets/img/projects/note-taking-habits/IMG_4008.jpg)
+![](/assets/img/projects/note-taking-habits/IMG_4008.webp)
 
 # Note-Taking Habits
 

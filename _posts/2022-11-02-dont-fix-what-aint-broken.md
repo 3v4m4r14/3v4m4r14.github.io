@@ -1,7 +1,7 @@
 ---
 title: Don't fix what ain't broken
 date: 2022-11-02T16:33:29.000Z
-image: /assets/img/posts/dont-fix-what-aint-broken/IMG_8379.jpg
+image: /assets/img/posts/dont-fix-what-aint-broken/IMG_8379.webp
 description: 
 tags:
   - psychology

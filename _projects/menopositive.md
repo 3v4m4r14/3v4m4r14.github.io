@@ -1,12 +1,12 @@
 ---
 name: "MenoPositive"
 date: "2019-10-06T00:00:00.000Z"
-image: /assets/img/projects/menopositive/IMG_0247.jpg
+image: /assets/img/projects/menopositive/IMG_0247.webp
 description: "A cooling device for perimenopausal people. STHLM Tech Fest challenge by McKinsey Digital."
 tools: [Product Design, Business Development]
 ---
 
-![](/assets/img/projects/menopositive/IMG_0247.jpg)
+![](/assets/img/projects/menopositive/IMG_0247.webp)
 
 # Menopositive
 
@@ -40,7 +40,7 @@ _Develop an innovative product, service or campaign that tackles challenges and 
 
 ### Exploring the problem space
 
-{% include elements/figure.html image="/assets/img/projects/menopositive/df9f5e59-827d-4b04-b529-ed1506b0c66d.jpg" caption="Discussing and building on each other's ideas." %}
+{% include elements/figure.html image="/assets/img/projects/menopositive/df9f5e59-827d-4b04-b529-ed1506b0c66d.webp" caption="Discussing and building on each other's ideas." %}
 
 To analyse problems in menopause and potential solutions, we employed the techniques of brain writing and brainstorming in combination with quick and dirty research. First, we did a quick search about menopause
 
@@ -59,7 +59,7 @@ Some unfiltered ideas that we had during the brainstorming were:
 - Positive quote bracelet, cup, mirror
 - Menopause helpline - talk to someone who understands
 
-{% include elements/figure.html image="/assets/img/projects/menopositive/056deb77-fd01-40d8-8c74-7854afcafd95.jpeg" caption="All the problems and solutions we came up with during brain writing and brainstorming" %}
+{% include elements/figure.html image="/assets/img/projects/menopositive/056deb77-fd01-40d8-8c74-7854afcafd95.webp" caption="All the problems and solutions we came up with during brain writing and brainstorming" %}
 
 #### Reddit research
 
@@ -103,7 +103,7 @@ The result of a rapid midnight prototyping can be seen in the following animatio
 
 {% include elements/figure.html image="/assets/img/projects/menopositive/IMG_0239.gif" caption="Rapid prototype of a light-up necklace made using an existing butterfly pendant and string lights hidden behind the scarf and the shirt." %}
 
-{% include elements/figure.html image="/assets/img/projects/menopositive/IMG_0241.jpg" caption="Midnight prototyping tools." %}
+{% include elements/figure.html image="/assets/img/projects/menopositive/IMG_0241.webp" caption="Midnight prototyping tools." %}
 
 We feared that people do not want extra addition during this uncomfortable hot flush. Indeed, a [follow-up post](https://www.reddit.com/r/Menopause/comments/d12wn9/menopositive_part_2_your_input_needed_for_a/) revealed that while our target group found the jewellery idea pretty, they did not care much for the compliments and found little value in interactive jewellery. Instead, they wanted something that would serve a **practical purpose** and cool them down during a hot flush.
 
@@ -115,9 +115,9 @@ Although we let Reddit help us with [deciding on the design](https://www.reddit.
 
 
 {% capture carousel_images %}
-{{ '/assets/img/projects/menopositive/IMG_0248.jpg' | relative_url }}
-{{ '/assets/img/projects/menopositive/IMG_0244.jpg' | relative_url }}
-{{ '/assets/img/projects/menopositive/IMG_0245.jpg' | relative_url }}
+{{ '/assets/img/projects/menopositive/IMG_0248.webp' | relative_url }}
+{{ '/assets/img/projects/menopositive/IMG_0244.webp' | relative_url }}
+{{ '/assets/img/projects/menopositive/IMG_0245.webp' | relative_url }}
 {% endcapture %}
 {% include elements/carousel.html %}
 
@@ -129,7 +129,7 @@ I wish to thank the team with whom we tackled this challenge in the short time o
 
 * * *
 
-![](/assets/img/projects/menopositive/20190908_180659.jpg)
+![](/assets/img/projects/menopositive/20190908_180659.webp)
 
 ### Project team
 
@@ -139,6 +139,6 @@ Madita Edeling
 Ling Wang  
 Helin Sarac
 
-![](/assets/img/projects/menopositive/85a3315f-f250-4c1e-9370-9f231fb76a97.jpg)
+![](/assets/img/projects/menopositive/85a3315f-f250-4c1e-9370-9f231fb76a97.webp)
 
 STHLM Tech Fest Hackathon, September 2019

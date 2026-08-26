@@ -1,7 +1,7 @@
 ---
 title: Are Familiar Strangers Becoming an Endangered Species?
 date: 2019-11-03T17:31:54.000Z
-image: /assets/img/posts/are-familiar-strangers-becoming-an-endangered-species/IMG_0519.jpeg
+image: /assets/img/posts/are-familiar-strangers-becoming-an-endangered-species/IMG_0519.webp
 description: 
 tags:
   - opinion

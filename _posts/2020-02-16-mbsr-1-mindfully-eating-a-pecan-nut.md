@@ -1,7 +1,7 @@
 ---
 title: 'MBSR 1: Mindfully eating a pecan nut'
 date: 2020-02-16T12:40:15.000Z
-image: /assets/img/posts/mbsr-1-mindfully-eating-a-pecan-nut/IMG_2413.jpeg
+image: /assets/img/posts/mbsr-1-mindfully-eating-a-pecan-nut/IMG_2413.webp
 description: "Exercise in mindful eating"
 tags:
   - mind

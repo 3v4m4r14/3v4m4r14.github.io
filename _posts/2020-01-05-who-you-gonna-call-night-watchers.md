@@ -1,7 +1,7 @@
 ---
 title: Who you gonna call? Night Watchers.
 date: 2020-01-05T09:36:00.000Z
-image: /assets/img/posts/who-you-gonna-call-night-watchers/IMG_1700.jpeg
+image: /assets/img/posts/who-you-gonna-call-night-watchers/IMG_1700.webp
 description: 
 tags:
   - life

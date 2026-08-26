@@ -1,7 +1,7 @@
 ---
 title: Norra ehk teekond mitte-päris-sinna-kuhu-oli-plaanis ja tagasi
 date: 2023-09-09T05:31:07.000Z
-image: /assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5484.jpeg
+image: /assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5484.webp
 description: "Kui siin ilmas veel midagi kindlat on, siis see, et kui sul on matkaratas, pead sa vähemalt korra motomatkal ära käima."
 tags:
     - moto
@@ -11,9 +11,9 @@ Kui siin ilmas veel midagi kindlat on, siis see, et kui sul on matkaratas, pead 
 
 Otsus minna ühe rattaga sündis sellest, et [esiteks ei ole minul midagi passenger princess olemise vastu]({% post_url 2022-07-28-kuidas-ma-poldu-kundsin-ja-motogrupi-lahku-loin %}) – saab ringi vaadata ja rahulikult mõtteid mõlgutada. Teiseks andsid pooled minu mootorratta eluks vajalikud organid kevadel saba ja keegi polnud kindel, kui kaugel Eestist ta ära surra võib.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5484.jpeg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5484.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2033.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2033.webp)
 
 * * *
 
@@ -30,7 +30,7 @@ Helsingist suundusime Tytyri kaevandusmuuseumisse. Muuseum on umbes 100 meetrit 
 
 Tuleb tõdeda, et uhke lift oli ka põhiatraktsioon selles kaevanduses, koos sellega, et ka telefonilevi oli seal sügaval suurepärane. Mitte, et muuseum oleks kehv olnud, aga Kiviõli kaevandus on üsna sarnane ja midagi uut siin polnud. Kui, siis oli uhkete LED-valgustitega mängitud rohkem kui mujal.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5387.jpeg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5387.webp)
 
 _Eva:  
 Mina ei nõustu. Mina olin vasikavaimustuses Trollikoopast, mis oli tegelikult lihtsalt üks eraldatud tunnelite jada kaevanduses, kuhu olid üles seatud väike saunanurk, suitsumasinaga lõkkease, valgusinstallatsioonid ja trolli magamistuba koos trooniga, millel sai pilti teha. Lisaks utsitas töötaja meid musta koopa suunas trollile tere hõikama. Selle peale hakkas mängima [Peer Gynti “Mäekuninga koopas”](https://youtu.be/kLp_Hh6DKWc?si=7NwfQwJZ-UvAmIbG) ja koopa eri osad sai kordamööda valgustatud. Pärast seda juhatati meid kardina taga peidus oleva tunnelini, mille lõpus säras suursugune aare, mille troll endale kokku kuhjanud oli. Tagatipuks saime kumbki endale pisikesest laekast valida ühe “vääriskivi”. Minu oma oli metalselt särav ebakorrapärane ovaal! Etteruttavalt olgu öeldud, et see oli ka ainuke troll, keda me oma Norra reisil nägime – asjaolu, mis valmistas mulle suurt pettumust._
@@ -39,11 +39,11 @@ Riido:
 Maa alla minnes oli just paduvihma kallama hakanud, aga üles tagasi jõudes oli ilm jälle kuiv ja päikseline ja õhk väga lämbe. Kaevandus oli kulutanud üksjagu aega ja edasi sõitsime otse laevale.
 
 {% capture carousel_images %}
-{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5394.jpeg' | relative_url }}
-{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0121.jpeg' | relative_url }}
-{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5443.jpeg' | relative_url }}
-{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5446.jpeg' | relative_url }}
-{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5450.jpeg' | relative_url }}
+{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5394.webp' | relative_url }}
+{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0121.webp' | relative_url }}
+{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5443.webp' | relative_url }}
+{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5446.webp' | relative_url }}
+{{ '/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5450.webp' | relative_url }}
 {% endcapture %}
 {% include elements/carousel.html %}
 
@@ -57,17 +57,17 @@ Päev algas täitsa mõnusalt, kuigi vara. Laev oli Stockholmis umbes täpselt k
 
 Oslost läbi täna ei tahtnud minna, sest seal pool lubas ilmateade suurt sadu. Seega võtsime suuna Øyeren’i järve poole, kus Eva arvas leidvat telkimiskohti ja mina leidsin Bookingust mõistliku hinnaga majutuse ~70 euroga (sest kiskus suuremale vihmale ja erilist tahtmist telkida ei olnud – seda enam, et selja oli taga natuke alla 600 km).
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2083.jpeg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2083.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image010.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image010.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2099.jpeg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2099.webp)
 
 Paraku sai kiirelt selgeks, et nagu Eestiski, on tublid inimesed kõikidele kaardi satelliitvaate järgi paljulubavatele telkimiskohtadele piirded ette paigaldanud ja nii tuli sobiva koha leidmiseks palju katteta kõrvalteid tulutult läbi sõita.
 
 Väsimus, vihm ja pidev võitlemine ratta püsti hoidmise nimel muutis tuju kehvemaks iga mööduva minutiga ja tuli vastu võtta otsus kergendada kukrut ja kasutada Bookingu teenuseid. Asi lihtne ja kiire, kontolt eemaldati vastav summa ja peatselt saabus sõnum võõrustajalt, mis viitas sellele, et ilmselt on broneeringut nähtud ja öömaja olemas.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image012.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image012.webp)
 
 Kohale jõudes võttis meid vastu ehmunud perenaine, kelle ainsas pakutavas toas olid juba rännumehed see, ja oli segaduses, kuidas Booking tegi topeltbroneeringu. Samas, broneeringut tühistada ei saanud ei meie ega nemad ja raha tagasi saamiseks tuli pidada pikk ja ebameeldiv vestlus Booking.com tehnilise abiga, kes tundus üleüldiselt kergelt juhm olema. Lõpuks asi siiski lahenes ja sekunditega arvelt elimineeritud summa lubati tagastada kiire 7-10 tööpäeva jooksul. Lahkelt oldi nõus meile veelgi asju broneerima. (-.-)
 
@@ -87,7 +87,7 @@ _Hiljem rääkis sugulane, et neil oli omal ajal tantsugrupiga sarnases kämping
 Riido:  
 Ärkasime 8:30 paiku. Kämpingu targalt lahendatud ja ruumisäästliku köögi kraanikauss-pissuaaril kiiremad hädad lahendatud, hakkasime jälle asju vaikselt rattale pakkima, mis ei olnud paduvihmas just meeldivaim tegevus. Samuti tuli välja, et paagikoti veekindlus on küsitav ja kogu elektroonika oli läbi vettinud. Õnneks GoProd peaks olema enam-vähem veekindlad, ratta dokumendid natukene vähem.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5515.jpeg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5515.webp)
 
 _Eva:  
 TMI warning! Kuna kämpingu vetsud asusid pisikese jalutuskäigu kaugusel meie majakesest ja ma ei soovinud oma öise pissihädaga seda matka ette võtta, sai mu bucket listist maha tõmmatud ka kraanikaussi pissimine. Meestel on see kindlasti palju lihtsam, aga sain ka mina hakkama!_
@@ -95,7 +95,7 @@ TMI warning! Kuna kämpingu vetsud asusid pisikese jalutuskäigu kaugusel meie m
 Riido:  
 Võtsime esialgse suuna lõuna poole, kuna seal ei sadanud nii palju ja plaan oli sõita ümber Oslo. Teed on pikad ja venivad, möödumise variante tekib harva ja kohalikel on kombeks hoida kiirust keskmiselt 20km/h madalamal lubatust. Kui algselt oli plaan sõita Norra idarannikult otse läänerannikule ühe päevaga, siis sellise tempoga see kahjuks ei õnnestunud ja võtsime öömaja umbes poolel teel Bergenisse. Sõita oleks jaksanud ilmselt rohkemgi, aga kuna ilm on endiselt märg ja vesi leiab oma tee ka ratta kohvritesse, siis leidsime öömaja ühes farmis, et kamina ees soojeneda ja oma pagas ära kuivatada.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image016.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image016.webp)
 
 Maastik on siin keskel juba väga maaliline, kõrged mäed vahelduvad sügavate orgudega, kus asuvad keskmise suurusega külakesed.
 
@@ -106,17 +106,17 @@ Temperatuur langes 13 kraadini ehk selline korralik eesti sügisilm.
 _Eva:  
 Väidetavalt on tegemist viimase 25 aasta suurima vihmaperioodiga._ _Õnneks sai Rootsist korralik vihmajope peale ostetud, nii et sõites pole minul suurt häda midagi, aga vihma käes paigal seistes on küll üsna nukker._
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0343.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0343.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5534.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5534.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0291.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0291.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0283.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0283.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0084.jpeg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0084.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0227.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0227.webp)
 
 * * *
 
@@ -136,25 +136,25 @@ Viimases hädas leidsime elektriliini all kehvakese koha.
 _Eva:  
 Riido ütleb kehvake, mina ütlen suurepärane! Otse kõrval oli suur mustikamets, kus mina vihma käes vettides kahe käega marju vitsutasin. Need metsmustikad olid suured, kultuurmustika mõõtu, aga üsna maitsetud nagu mustikad ikka. Lisaks oli metsaalune täis küpseid metsvaarikaid. Veidi eemal oli kaks pisikest juga, kus saime end jäise veega pesta. Mida elult veel tahta?_
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0308.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0308.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0226.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0226.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0109.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0109.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0163.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0163.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0305.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0305.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0200.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0200.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0096.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0096.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0150.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0150.webp)
 
 * * *
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0127.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0127.webp)
 
 ## 10.08.2023
 
@@ -167,7 +167,7 @@ Kuna vihm oli vahepeal järgi jäänud, hakkasin vaikselt Evat äratama, et asja
 
 Lõpuks, läbimärg ja minekuvalmis, panin ratta tööle. See hakkas kohe karjuma ja viskas ette kurjakuulutava punase veateate. Tuli välja, et ööga on tagarehvist üks bar jooksu pannud. Täislastis ja kolmandik nominaalrõhust allpool oli kurvilisel teel sõita nagu tühja rehviga, seega mäest alla jõudes tegin esimesel võimalusel peatuse, et rehvi pumbata.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0338.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0338.webp)
 
 Miskipärast on see ratas ka herilaste lemmik ja rehvi pumbates üks selline ka ligi astus ja lausa nii ligi, et püksisäärest sisse ja sutsti jalga. Eelnevalt olen vist ainult kaks korda herilaselt nõelata saanud: esimene kord suhkrukringli intsidendis ja teine kord kunagi Saaremaal rõdul ja otse silma alla. Siis paistetas silm üsna kinni, seekord see koht natuke tuikas ja sügeleb kergelt praegugi, aga ei midagi erilist.
 
@@ -195,21 +195,21 @@ Fjordide peal sõites saad aru, kui vähesed on tegelikult ratta juhtimise oskus
 
 Õhtul külastasime esimest korda ka kohalikku alkoholipoodi. Kõige odavam kange märjuke on 23 eurot ja ilmselt on see midagi süütevedeliku sarnast. Leidsin ka motomeeste gini, mida enne Norrast lahkumist kaasa osta. Ei tea, kas see ka juua passib, aga see maksab eurodes 60 raha, mis Eestis on kvaliteetalkoholi hind. Siin kardan, et mitte 🫣
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2139.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_2139.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0168.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0168.webp)
 
 * * *
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0348.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0348.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0204.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0204.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0350.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0350.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0329.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0329.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image060.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image060.webp)
 
 ## 11.08.2023
 
@@ -222,11 +222,11 @@ Tee viis rannamaanteed pidi lõunasse ja kõrged mäed asendusid madala kivise p
 
 Sõitsime Stavangerist alla Egersundi poole mõõda ookeaniäärt. Maanteed on valdavalt kaherajalised –  mõlemas suunas üks rada ja piire keskel ja norrakad seal peal nagu väikesed teod. Kuna mõõda ei saa, siis tiksume kõik 60 km/h.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0147.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0147.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0120.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0120.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0240.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0240.webp)
 
 Egersundist võtsime suuna uuesti sisemaale ja hakkasime telkimisplatsi otsima. Kuna maa on tasasem, siis võiks ju olla lihtne, aga siiski mitte, sest päris maantee kõrvale niinimetatud SOS-teelaiendisse ei taha ja rohumaad on pika sajuperioodi tõttu veest nõretavad. Sisemaa poole liikudes hakkavad ka mäed uuesti kasvama.
 
@@ -234,24 +234,24 @@ Pärast mõõdukalt pikka otsimist leidsime suurepärase koha, mis maanteest paa
 
 Mäest üles viis kivine rada, mida mööda Eva soovis matkama minna, aga kümne meetri pärast hakkas paistma maja. Tuli välja, et parkisime oma telgi kellegi hoovi. Varem tee ääres silma hakanud ümber kukkunud silt viitas sellele, et maja oli müügis, seega tegime potentsiaalsete ostjate näod pähe ja läksime edasi uudistama. Küllaltki kehvas seisus paistis see maja väljast, ilmselt juba pikalt müügis olnud, aga hind 2 000 000 kohalikku raha (u 200 000 eurot).
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image066.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image066.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image068.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/image068.webp)
 
 Jalutasime veel hetke siin-seal ja tagasi jõudes avastasime telgi ümbert kutsumata külalised kihulased, seega pugesime kõvasti kätega vehkides ruttu telki. Sõime Eva poolt hommikul kaasa pakitud võileibu ja läksime magama.
 
 _Eva:  
 Vaatasin veel tükk aega läbi telgiukse võrgu kihulastega tõtt, et kas raiped mahuvad aukudest läbi või mitte. Tundus, et pigem mitte. Seegi hea. Kui kaameravalve silt poleks meid ära ehmatanud, oleks võinud telgi maja terrassile varju alla tuua. Siis poleks olnud muret, isegi kui öösel sadama hakkab._ _Täna öösel panime kotid kokku ehk ühendasime magamiskottide lukud omavahel. Minul oli lõpuks ometi nii mõnus soe ja palju ruumi jalgu sirutada, aga Riido kurtis palavuse üle._
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0111.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0111.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0134.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0134.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0246.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0246.webp)
 
 * * *
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0213.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0213.webp)
 
 ## 12.08.2023
 
@@ -265,7 +265,7 @@ Edasi sisemaale sõites ja vesiklosetti otsides leidsime mõnusa järveäärse p
 _Eva:  
 Mina veidi kahtsen, et me eelmisel õhtul nii kaugele ei jõudnud. See oleks olnud imeline koht ööbimiseks. Panin tuleviku tarbeks igatahes kaardile märke – juhuks, kui kunagi tagasi satub._
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0344.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0344.webp)
 
 Riido:  
 Edasine päev mõõdus sõites, et jõuda suvituspealinna Kristiansandi. Kohale jõudes tuli meelde, et meile linnad ei meeldi, ja liikusime kohe edasi 🙂 Peakohal hakkasid tekkima vihmapilved ja läksime varju ühte kaubanduskeskusesse, et korra istuda ja öömaja planeerida. Istudes kogesin ka oma elu esimest maavärinat, olgugi et väga väikest (epitsenter oli kaugel Rootsis ja ilmselt mingi pisike võnkumine levis ka Norra).
@@ -286,7 +286,7 @@ Sa ikka tead, et ma saadan selle teksti ka oma emale?_
 Riido:  
 Hiline äratus, check out kell 11. Kuivama laotatud telk kokku ja minekut. Ees ootas täispikk sõidupäev, plaanis üle 500 km Stockholmi külje alla ja kui ilm hoiab, siis telkima. Sõitsime kuni jaksasime istuda, siis väike paus tee peale jäänud tanklas ja edasi. Tagumine rehv on ikka kahtlane ja õhk kipub välja lipsama, aeg-ajalt peab seda pumpama tee ääres.
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5662.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_5662.webp)
 
 _Eva:  
 Ei mõista, kuidas Riido nii palju järjest uhada jaksab. Minul surevad jalad ära ja selg läheb valusaks ja tahaks ammu juba pausi.Sõidu ajal sirutada ka hästi ei saa._
@@ -323,15 +323,15 @@ _Igatahes oli sel korral tegemist Silja laevaga, mida Riido algselt mulle näida
 
 _Mina olin tegelikult äärmiselt pettunud, sest eelmisel õhtul kajutit broneerides oli üks variantidest aknaga Muumi-teemaline kajut, aga kuna Riido pidas õhtusöögi valmistamist Muumi-kajutist olulisemaks ega öelnud mulle oma Club One’i koodi, siis hiljem seda enam saadaval ei olnud. Tegelikult olin ise süüdi, sest mul polnud broneerimiseks Riido Club One’i koodi isegi vaja – mõtlesin lihtsalt, et olen hea inimene ja lasen tal punkte koguda. Järgmine kord tuleb eelkõige iseendale ja Muumidele mõelda._
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0361.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0361.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0360.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0360.webp)
 
 * * *
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0354.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0354.webp)
 
-![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0358.jpg)
+![](/assets/img/posts/norra-ehk-teekond-mitte-paris-sinna-kuhu-oli-plaanis-ja-tagasi/IMG_0358.webp)
 
 ## 15.08.2023
 

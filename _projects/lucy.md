@@ -1,12 +1,12 @@
 ---
 name: "Lucy"
 date: "2019-01-28T00:00:00.000Z"
-image: /assets/img/projects/lucy/lucy.019.jpeg
+image: /assets/img/projects/lucy/lucy.019.webp
 description: "Final presentation for my storytelling class."
 tools: [Product Design, Storytelling]
 ---
 
-![](/assets/img/projects/lucy/lucy.019.jpeg)
+![](/assets/img/projects/lucy/lucy.019.webp)
 
 # Lucy
 

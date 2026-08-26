@@ -1,7 +1,7 @@
 ---
 title: Maakad ei väärigi uhkeid asju
 date: 2026-08-24T21:21:06.000Z
-image: /assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_3543.jpeg
+image: /assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_3543.webp
 description:
 tags:
   - UX
@@ -37,13 +37,13 @@ Esimene ohumärk oleks pidanud olema mustmiljon e-kirja kullerifirmalt. Ausõna,
 
 Lubatud oli kohaletoimetamine 3-5 päevaga. Viienda päeva õhtul tuli kiri: 
 
-![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot1.png)
+![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot1.webp)
 
 Arusaadav. Ikka juhtub, eriti kui on suur allahindluskampaania. Kuna kiri palus ilusti klienditoega _mitte_ kontakteeruda, siis ma seda ka ei teinud. Milleks. Ütlesid ju, et varsti saadab kullerfirma jälgimiskoodi ja peagi ongi mu pakk ukse taga ja saan diivani karvapallide alt välja kaevata.
 
 Siis aga tuli järgmisel päeval, mis oli ühtlasi laupäev, mil Dysoni klienditeenindus ei ole kättesaadav, säärane kiri:
 
-![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot2.png)
+![](/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/Screenshot2.webp)
 
 Kogu mu elevus asendus pettumuse ja segadusega. Kuna ma koristada saan? Mis andmed puudu olid? Miks nad minult täpsustust ei küsinud, selmet tellimus tühistada?! Ja üleüldsegi - kus mu raha on?
 
@@ -80,17 +80,17 @@ Mitte midagi. Panin aga uue tellimuse sisse, seekord linnaaadressiga. Aga halb m
 Libista paremale-vasakule, et minu ja Rahuli vestlust lugeda:
 
 {% capture carousel_images %}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4234.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4235.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4236.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4237.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4238.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4239.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4240.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4241.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4243.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4250.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4251.jpeg' | relative_url }}
-{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4252.jpeg' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4234.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4235.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4236.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4237.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4238.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4239.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4240.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4241.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4243.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4250.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4251.webp' | relative_url }}
+{{ '/assets/img/posts/maakad-ei-vaarigi-uhkeid-asju/IMG_4252.webp' | relative_url }}
 {% endcapture %}
 {% include elements/carousel.html %}

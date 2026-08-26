@@ -1,12 +1,12 @@
 ---
 name: "BSc Thesis"
 date: "2018-05-18T00:00:00.000Z"
-image: /assets/img/projects/bsc-thesis/Screenshot-2020-05-22-at-20.29.52.png
+image: /assets/img/projects/bsc-thesis/Screenshot-2020-05-22-at-20.29.52.webp
 description: "Attacks regarding online tests and ensuring the integrity of results based on the example of TTÜ admission test"
 tools: [UX Design, Cybersecurity]
 ---
 
-![](/assets/img/projects/bsc-thesis/Screenshot-2020-05-22-at-20.29.52.png)
+![](/assets/img/projects/bsc-thesis/Screenshot-2020-05-22-at-20.29.52.webp)
 
 # BSc thesis
 

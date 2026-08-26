@@ -1,7 +1,7 @@
 ---
 title: What is a tactile screen?
 date: 2019-09-19T19:08:44.000Z
-image: /assets/img/posts/what-is-a-tactile-screen/screens.jpg
+image: /assets/img/posts/what-is-a-tactile-screen/screens.webp
 description: "An understandable explanation of tactile screens"
 tags:
   - technology
@@ -17,13 +17,13 @@ Well, the “tactile” part of this term hints that the screen has something to
 
 Because us humans use our skin to feel touch, a tactile screen works best when it touches your body directly. When a tactile screen is against your body, it can sort of poke you like that annoying bench mate in elementary school.
 
-{% include elements/figure.html image="/assets/img/posts/what-is-a-tactile-screen/IMG_0225.png" caption="Tiles on a bathroom wall." %}
+{% include elements/figure.html image="/assets/img/posts/what-is-a-tactile-screen/IMG_0225.webp" caption="Tiles on a bathroom wall." %}
 
 You can imagine a tactile screen to be the tiled wall of your bathroom. The wall is the screen and the tiles are what we call **_pixels_**– tiny parts that make up a screen when grouped together. But unlike your bathroom wall that hopefully stays put and does not wiggle around, the tiles on a tactile screen move. They can vibrate or even poke you gently. They can do this one by one or all at once!
 
 As said before, a tactile screen works best when it is against your body. Since we usually do not want to stand against our bathroom wall the whole day, scientists have created tactile screens that are a bit smaller and more flexible, so that they can be carried with you, worn as a shirt or a wristband.
 
-{% include elements/figure.html image="/assets/img/posts/what-is-a-tactile-screen/bracelet-798x1024.jpg" caption="A pearl bracelet." %}
+{% include elements/figure.html image="/assets/img/posts/what-is-a-tactile-screen/bracelet-798x1024.webp" caption="A pearl bracelet." %}
 
 In case of a tactile screen that looks like a wristband, for example, you can imagine a fancy pearl bracelet. Instead of the whole bathroom wall, we have taken only one row of tiles, turned them into tiny pearls, and wrapped that row of pearls around your wrist. Each pearl on the bracelet can still vibrate alone or they can group together with other pearls to tickle a larger area around your wrist. They can poke you softer or stronger and, in this way, give information about what is going on in the tactile screen.
 

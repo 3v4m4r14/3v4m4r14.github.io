@@ -1,7 +1,7 @@
 ---
 title: Holy poly! and the Dutch levels of dating
 date: 2022-01-03T16:19:22.000Z
-image: /assets/img/posts/holy-poly-and-the-dutch-levels-of-dating/F858DB41-F3F4-4884-B2F1-79E93B144190_1_201_a.jpeg
+image: /assets/img/posts/holy-poly-and-the-dutch-levels-of-dating/F858DB41-F3F4-4884-B2F1-79E93B144190_1_201_a.webp
 description: 
 tags:
   - relationship
@@ -16,7 +16,7 @@ Do you consider yourself polygamous? Polyandrous? Polyamorous? To me, the defini
 
 **Polyandry** – in contrast to polygyny, polyandry [refers to](https://lgbta.fandom.com/wiki/Polyandry) **one woman** being married to multiple men at the same time.
 
-![](/assets/img/posts/holy-poly-and-the-dutch-levels-of-dating/B725BBEE-68F1-4BFA-92D0-3B674AE4385E_1_201_a.jpeg)
+![](/assets/img/posts/holy-poly-and-the-dutch-levels-of-dating/B725BBEE-68F1-4BFA-92D0-3B674AE4385E_1_201_a.webp)
 
 **[Group marriage](https://www.verywellmind.com/what-is-polygamy-5207972)** – when **several** men and women marry each other.
 

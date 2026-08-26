@@ -1,7 +1,7 @@
 ---
 title: IKEA iseseisva elu stardipakk
 date: 2024-10-01T12:59:04.000Z
-image: /assets/img/posts/ikea-iseseisva-elu-stardipakk/IMG_7292.jpeg
+image: /assets/img/posts/ikea-iseseisva-elu-stardipakk/IMG_7292.webp
 description: "Komistasin viimati IKEAs lihapalle mugimas käies uue toote otsa: iseseisva elu stardipakk. Komplekt kasutab edukalt ära mõningaid tootepsühholoogia võtteid, nagu näiteks…"
 tags:
   - analysis

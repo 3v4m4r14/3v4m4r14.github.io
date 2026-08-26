@@ -1,12 +1,12 @@
 ---
 name: "FireFlies"
 date: "2019-09-12T00:00:00.000Z"
-image: /assets/img/projects/fireflies/turbantia.png
+image: /assets/img/projects/fireflies/turbantia.webp
 description: "FireFlies is an interactive multisensory experience that takes the visitor back to a 19th century tavern."
 tools: [Product Design, Storytelling, UX Design]
 ---
 
-![](/assets/img/projects/fireflies/turbantia.png)
+![](/assets/img/projects/fireflies/turbantia.webp)
 
 # FireFlies
 

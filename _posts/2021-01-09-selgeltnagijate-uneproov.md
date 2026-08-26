@@ -1,7 +1,7 @@
 ---
 title: Selgeltnägijate uneproov
 date: 2021-01-09T12:01:00.000Z
-image: /assets/img/posts/selgeltnagijate-uneproov/C554EDFE-F4C8-4F3B-84C1-FBBA5C14BAC8_1_201_a.jpeg
+image: /assets/img/posts/selgeltnagijate-uneproov/C554EDFE-F4C8-4F3B-84C1-FBBA5C14BAC8_1_201_a.webp
 description:
 tags:
 
@@ -20,4 +20,4 @@ Umbes samal hetkel osutus üks rott hoopis nooreks puna-valgekirjuks kassiks nin
 
 Muidu oleks see unenägu võinud jäädagi üheks paljudest värvikirevatest alateadvuse vingerpussidest mu elus, aga saatuse tahtel kaevas koer hommikuse jalutuskäigu ajal meie kortermaja kõrval oleva põõsa alt välja külmunud roti laiba. Ilmselgelt on ainuõige järeldus see, et ma näen unenäos tulevikku ja peaksin end edaspidi nimetama selgeltnägijaks.
 
-{% include elements/figure.html image="/assets/img/posts/selgeltnagijate-uneproov/C554EDFE-F4C8-4F3B-84C1-FBBA5C14BAC8_1_201_a.jpeg" caption="Põõsa alt välja kaevatud rotiraibe" %}
+{% include elements/figure.html image="/assets/img/posts/selgeltnagijate-uneproov/C554EDFE-F4C8-4F3B-84C1-FBBA5C14BAC8_1_201_a.webp" caption="Põõsa alt välja kaevatud rotiraibe" %}

@@ -1,12 +1,12 @@
 ---
 name: "Walk Over Me"
 date: "2019-10-29T00:00:00.000Z"
-image: /assets/img/projects/walk-over-me/DSF5566-5.jpg
+image: /assets/img/projects/walk-over-me/DSF5566-5.webp
 description: "An interactive touch-sensitive light-up floor designed to support and inspire physical play."
 tools: [Product Design, UX Design]
 ---
 
-![](/assets/img/projects/walk-over-me/DSF5566-5.jpg)
+![](/assets/img/projects/walk-over-me/DSF5566-5.webp)
 
 # Walk Over Me
 

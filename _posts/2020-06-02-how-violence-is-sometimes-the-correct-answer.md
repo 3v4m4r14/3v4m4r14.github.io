@@ -1,7 +1,7 @@
 ---
 title: How violence is sometimes the correct answer
 date: 2020-06-02T10:32:02.000Z
-image: /assets/img/posts/how-violence-is-sometimes-the-correct-answer/IMG_4795.jpeg
+image: /assets/img/posts/how-violence-is-sometimes-the-correct-answer/IMG_4795.webp
 description: "It was a splendid morning in the Netherlands. The weather was nice. The sun was shining."
 tags:
   - life
@@ -29,7 +29,7 @@ It didn’t open.
 
 Well, to be honest, it did, but it only moved for about two centimetres or less, creating a 3-millimetre gap between the door and the doorframe.
 
-{% include elements/figure.html image="/assets/img/posts/how-violence-is-sometimes-the-correct-answer/IMG_4798.jpeg" caption="The front and bathroom doors both open towards the narrow kitchen-corridor" %}
+{% include elements/figure.html image="/assets/img/posts/how-violence-is-sometimes-the-correct-answer/IMG_4798.webp" caption="The front and bathroom doors both open towards the narrow kitchen-corridor" %}
 
 Eva immediately realised her mistake.
 
@@ -47,7 +47,7 @@ Rule number two – think outside the box.
 
 Rule number three – brush up on your burglar skills.
 
-{% include elements/figure.html image="/assets/img/posts/how-violence-is-sometimes-the-correct-answer/IMG_4797.jpeg" caption="A wide-open bathroom door successfully blocks the front door from opening" %}
+{% include elements/figure.html image="/assets/img/posts/how-violence-is-sometimes-the-correct-answer/IMG_4797.webp" caption="A wide-open bathroom door successfully blocks the front door from opening" %}
 
 “Perhaps I could climb in through the window?”, Eva thought to herself.
 

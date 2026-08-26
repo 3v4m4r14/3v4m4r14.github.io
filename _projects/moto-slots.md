@@ -1,12 +1,12 @@
 ---
 name: "Moto Slots"
 date: "2025-06-02T00:00:00.000Z"
-image: /assets/img/projects/moto-slots/Screenshot-2025-06-02-at-23.24.42.png
+image: /assets/img/projects/moto-slots/Screenshot-2025-06-02-at-23.24.42.webp
 description: "Moto Slots is a playful slot machine game, inspired by my motorcycling group’s shared love for motorcycles, coffee, and hedgehogs. Built using Cursor AI."
 tools: [Product Design]
 ---
 
-![](/assets/img/projects/moto-slots/Screenshot-2025-06-02-at-23.24.42.png)
+![](/assets/img/projects/moto-slots/Screenshot-2025-06-02-at-23.24.42.webp)
 
 # Moto slots
 

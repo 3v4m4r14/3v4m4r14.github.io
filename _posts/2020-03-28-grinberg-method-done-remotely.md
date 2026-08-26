@@ -1,7 +1,7 @@
 ---
 title: Grinberg method. Done remotely.
 date: 2020-03-28T17:08:49.000Z
-image: /assets/img/posts/grinberg-method-done-remotely/IMG_3003.jpeg
+image: /assets/img/posts/grinberg-method-done-remotely/IMG_3003.webp
 description: "I saw a post on Reddit the other day where a Grinberg practitioner was looking for volunteers who could help him try out an online session. Of course, I signed up."
 tags:
   - body
@@ -27,7 +27,7 @@ The most apparent feeling was the tightness in my abs. They were clenched and it
 
 My shoulders were even more crowded with feelings. They were heavy. It felt like my shoulders were being pressed down as if I was holding heavy grocery bags on each arm. At the same time, it also felt like I was lifting my shoulders upwards instead of letting them hang loose. The most prominent feeling was the one you get when someone grabs you from your arms with their hands and squeezes both of your shoulders, shaking your whole body as if to say “Are you an idiot?!”.
 
-{% include elements/figure.html image="/assets/img/posts/grinberg-method-done-remotely/image.jpeg" caption="The “Are you an idiot?!” sensation I had in my shoulders." %}
+{% include elements/figure.html image="/assets/img/posts/grinberg-method-done-remotely/image.webp" caption="The “Are you an idiot?!” sensation I had in my shoulders." %}
 
 My breath was short and shallow and I held it when breathing out. Therefore, my breathing pattern looked something like “breathing in”, “breathing out”, “holding breath”, “repeat”. Then again, I think that is more or less my regular breathing pattern anyway. When instructed to breathe in even deeper, I realised how small my lung capacity is – I just could not force more air into me. I felt like I would burst.
 

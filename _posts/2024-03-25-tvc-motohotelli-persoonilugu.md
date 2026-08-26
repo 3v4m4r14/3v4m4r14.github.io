@@ -1,7 +1,7 @@
 ---
 title: TVC Motohotelli persoonilugu
 date: 2024-03-25T19:43:00.000Z
-image: /assets/img/posts/tvc-motohotelli-persoonilugu/IMG_7741.jpg
+image: /assets/img/posts/tvc-motohotelli-persoonilugu/IMG_7741.webp
 description:
 tags:
   - moto

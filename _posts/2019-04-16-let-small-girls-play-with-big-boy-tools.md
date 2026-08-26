@@ -1,7 +1,7 @@
 ---
 title: Let small girls play with big boy tools
 date: 2019-04-16T04:47:11.000Z
-image: /assets/img/posts/let-small-girls-play-with-big-boy-tools/a562dd4c-a170-4a8a-b3c1-229dc43037f6.jpg
+image: /assets/img/posts/let-small-girls-play-with-big-boy-tools/a562dd4c-a170-4a8a-b3c1-229dc43037f6.webp
 description:
 categories:
   - Opinion
@@ -16,7 +16,7 @@ When Kasper invited me over to help with building stage decor and said that my t
 
 Outside school, I have mostly been lacking a strong father figure. All the “big boy skills” I have come from the teachings of my grandfather or my significant others. The former taught me how to ride an old RS09 tractor (_no idea how to start it, though_), and how to switch the blades of a lawn mower. The latter taught me how to change tyres (_AND how to drive_), how to connect the wiring of LED-lights, and attach the covers of electrical outlets.
 
-{% include elements/figure.html image="/assets/img/posts/let-small-girls-play-with-big-boy-tools/IMG_0937.jpg" caption="Removing a car wheel" %}
+{% include elements/figure.html image="/assets/img/posts/let-small-girls-play-with-big-boy-tools/IMG_0937.webp" caption="Removing a car wheel" %}
 
 I also **take great pride** in the fact that I can fix some parts of my car, e.g. replacing the battery or various lights and lightbulbs. I remember when my car’s reverse light was on strike (_again!_). I had to lift my car up in a random parking lot, climb under it with my head (_which was a bit dangerous since I did not know how well the jack would hold_), tear the socket out (_because boy, was it stuck! me and three men tried to pull it out and only the last one succeeded_), discover that the metal clip designed to bring power to the socket was so oxidised there was nothing left of it, solder a new metal lining for the socket (_instead of paying 60 euros for a replacement part_), and put it back in again. By now, I know the soul of my car lights like the back of my palm because similar things have happened to almost all of them.
 

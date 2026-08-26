@@ -1,7 +1,7 @@
 ---
 title: "Armastus on see, kui karu koopast välja tuleb rebane"
 date: "2024-04-24T00:00:00.000Z"
-image: /assets/img/posts/armastus-on-see-kui-karu-koopast-valja-tuleb-rebane/IMG_20240101_000309.jpeg
+image: /assets/img/posts/armastus-on-see-kui-karu-koopast-valja-tuleb-rebane/IMG_20240101_000309.webp
 description: 
 tags:
     - relationship

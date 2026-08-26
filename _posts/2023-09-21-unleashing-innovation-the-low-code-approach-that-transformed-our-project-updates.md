@@ -1,7 +1,7 @@
 ---
 title: Transforming project updates with low-code innovation
 date: 2023-09-21T09:07:17.000Z
-image: /assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/amongus.jpg
+image: /assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/amongus.webp
 description: 
 tags:
   - technology
@@ -40,13 +40,13 @@ SUS has two key components for the two target groups:
 
 The user interface of Status Update Sender prioritizes functionality while maintaining simplicity. Comprising three screens within the PowerApps canvas app, it efficiently serves the needs of technical project managers. The primary screen provides an overview of active, on-hold, and upcoming projects, displaying essential project details. Users can select a project to access the editing view, where they can modify project-related information and add comments. An email preview and recipient editing popup are integrated within this view. Upon saving changes, the user lands on a read-only form with updated project details, assuring them that the edits were successful. The streamlined UI enhances usability.
 
-{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen1.png" caption="Overview of projects" %}
+{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen1.webp" caption="Overview of projects" %}
 
-{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen2.png" caption="Editing view" %}
+{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen2.webp" caption="Editing view" %}
 
-{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen3.png" caption="Email preview" %}
+{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen3.webp" caption="Email preview" %}
 
-{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen4.png" caption="Read-only project information" %}
+{% include elements/figure.html image="/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/screen4.webp" caption="Read-only project information" %}
 
 Using PowerApps’ built-in functionality, SUS harnesses the capabilities of [Office365](https://www.office.com/) services, specifically Office365Users and Office365Outlook. These integrations facilitate searching for people within our organization, obtaining their email addresses, and sending emails directly from the SUS app. Moreover, SUS can be seamlessly integrated into Microsoft Teams as a dedicated tab, offering convenient access to project-related information.
 
@@ -92,7 +92,7 @@ Of course, bringing this solution to life wasn’t without its challenges. Getti
 
 Collaboration played a crucial role in surmounting these challenges. The support of co-workers like Jan Vend, who helped with the script, and the invaluable feedback and feature suggestions from my team – the main user group – were instrumental in refining our low-code solution.
 
-![](/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/diagram.png)
+![](/assets/img/posts/unleashing-innovation-the-low-code-approach-that-transformed-our-project-updates/diagram.webp)
 
 ## Empowering Non-Coders: Creating Value Without Tech Expertise
 

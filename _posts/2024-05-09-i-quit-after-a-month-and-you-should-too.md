@@ -1,7 +1,7 @@
 ---
 title: I quit after a month and you should, too
 date: 2024-05-09T05:52:11.000Z
-image: /assets/img/posts/i-quit-after-a-month-and-you-should-too/IMG_2590.jpeg
+image: /assets/img/posts/i-quit-after-a-month-and-you-should-too/IMG_2590.webp
 description:
 tags:
   - work

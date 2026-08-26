@@ -1,12 +1,12 @@
 ---
 name: "Innovation Scan"
 date: "2018-11-02T00:00:00.000Z"
-image: /assets/img/projects/innovation-scan/fullsizeoutput_51a.jpeg
+image: /assets/img/projects/innovation-scan/fullsizeoutput_51a.webp
 description: "An analysis of the current innovation management strategy of NDIX and proposed solutions for improvement."
 tools: 
 ---
 
-![](/assets/img/projects/innovation-scan/fullsizeoutput_51a.jpeg)
+![](/assets/img/projects/innovation-scan/fullsizeoutput_51a.webp)
 
 # Innovation scan
 

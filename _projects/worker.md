@@ -1,12 +1,12 @@
 ---
 name: "WorkER"
 date: "2019-04-01T00:00:00.000Z"
-image: /assets/img/projects/worker/Accident.jpg
+image: /assets/img/projects/worker/Accident.webp
 description: "A mobile-based virtual reality application designed to simulate a variety of emergency situations."
 tools: [Product Design, Business Development]
 ---
 
-![](/assets/img/projects/worker/Accident.jpg)
+![](/assets/img/projects/worker/Accident.webp)
 
 # WorkER
 
@@ -18,7 +18,7 @@ VIDEO TBA
 
 _Pitch Video_
 
-![](/assets/img/projects/worker/WhatsApp-Image-2019-02-15-at-15.58.27.jpeg)
+![](/assets/img/projects/worker/WhatsApp-Image-2019-02-15-at-15.58.27.webp)
 
 _Storyboard_
 

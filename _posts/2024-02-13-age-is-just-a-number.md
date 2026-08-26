@@ -1,7 +1,7 @@
 ---
 title: Age is just a number
 date: 2024-02-13T16:29:14.000Z
-image: /assets/img/posts/age-is-just-a-number/CA0154D9-B6AA-4A30-A7AA-9860502070A9.jpeg
+image: /assets/img/posts/age-is-just-a-number/CA0154D9-B6AA-4A30-A7AA-9860502070A9.webp
 description: "In the past couple of weeks, two people have considered me older than I am. Should I be offended?"
 tags:
   - age

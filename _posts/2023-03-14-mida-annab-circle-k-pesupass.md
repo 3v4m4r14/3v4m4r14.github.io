@@ -1,7 +1,7 @@
 ---
 title: Mida annab Circle K Pesupass?
 date: 2023-03-14T15:03:50.000Z
-image: /assets/img/posts/mida-annab-circle-k-pesupass/B437768A-A822-4E18-A656-86151B86015A_1_201_a.jpeg
+image: /assets/img/posts/mida-annab-circle-k-pesupass/B437768A-A822-4E18-A656-86151B86015A_1_201_a.webp
 description: "Kes veel ei tea, siis Circle K paistab olevat oma autopesu-teisipäevad asendanud Pesupassiga - püsitellimusloogikal automaatpesula teenusega. Katsetasin seda kuu aega."
 tags:
   - opinion
@@ -20,9 +20,9 @@ Circle K rakenduses on näha, kas pesula on parasjagu vaba või mitte. Kahjuks o
 
 Vaba vs hõivatud staatuse asemel tahaks pigem näha, mitu autot seisab hetkel pesula sabas. Siis teaks, kas on üldse mõtet sinna suunas kihutama hakata. Lisaks võiks rakenduse kaardivaade näidata pesula staatust eri värvide või sümbolitega, et ei peaks ükshaaval kõiki lähipiirkonna pesulaid läbi toksima, nagu praegune disain ette näeb. Igatahes tundub, et kõige ebapopulaarsemad ajad auto pesemiseks on ööd, umbes kell 21 alates, nii et kiirustage, seltsimehed unetud, kiirustage.
 
-![](/assets/img/posts/mida-annab-circle-k-pesupass/1502CFD8-3CBF-49D2-B155-611C04A506BC.png)
+![](/assets/img/posts/mida-annab-circle-k-pesupass/1502CFD8-3CBF-49D2-B155-611C04A506BC.webp)
     
-![](/assets/img/posts/mida-annab-circle-k-pesupass/900FA435-4C1D-42F1-A6E8-00B7E07CBF49.png)
+![](/assets/img/posts/mida-annab-circle-k-pesupass/900FA435-4C1D-42F1-A6E8-00B7E07CBF49.webp)
     
 
 ## Üks Pesupass = üks auto. Või kas ikka on?
@@ -47,7 +47,7 @@ See, KUI puhtaks Circle K automaatpesulad auto tegid, on loomulikult vaieldav, a
 
 Kui programm lõppes ja väljasõidutuli süttis, hakkasid uksed hoopis sulguma. Õnneks on pesula seina peal number, kuhu mure korral pöörduda. Niisiis helistasingi teenindajale, et halloo, jäin siia pesulasse kinni. Minu järel ootav autojuht oli muidugi närvihaige ja vilgutas tulesid, et mida ma seal passin, kas jäin magama? Nagu see aitaks mind kiiremini pesulast välja… Õnneks tuli peagi tore tehnik, kes vajutas suurt punast nuppu, mis uksed taas pärani lahti lõi. Vaene järjekorras olev autojuht aga sai oma tuledisko saatel rahus edasi oodata, sest tehnik hakkas igaks juhuks pesulat ümber programmeerima. Mina kimasin puhta auto ja ilma burgerita minema. Tundus tervislikum.
 
-{% include elements/figure.html image="/assets/img/posts/mida-annab-circle-k-pesupass/03A01358-BE8B-4FE0-89DF-1F86A75AD59D_1_201_a.jpeg" caption="Uksed läksid poole peale kinni, nii et ma ei mahtunud enam välja." %}
+{% include elements/figure.html image="/assets/img/posts/mida-annab-circle-k-pesupass/03A01358-BE8B-4FE0-89DF-1F86A75AD59D_1_201_a.webp" caption="Uksed läksid poole peale kinni, nii et ma ei mahtunud enam välja." %}
 
 ## Enneaegne lõpetamine
 
