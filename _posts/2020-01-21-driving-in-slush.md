@@ -47,4 +47,11 @@ One of the speakers who I had the pleasure of driving to the airport, mentioned 
 
 In the end, the Finns have made something great out of the downfall of Nokia. They have taken matters in their own hands and came out of it successfully. Nevertheless, from this volunteer’s point of view, Slush still has a long way to go. Maybe even on a reverse gear?
 
-<object data="{{ '/assets/docs/posts/driving-through-slush/slush-volunteer-certificate-2019.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1WIMOYA4bSBGMZEi7vWWTqv45VOhxH6Rd/preview"
+  title="PDF presentation"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
