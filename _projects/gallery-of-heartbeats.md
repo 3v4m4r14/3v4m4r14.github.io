@@ -14,4 +14,11 @@ tools: [Product Design, UX Design]
 
 ## Specification
 
-<object data="{{ '/assets/docs/projects/gallery-of-heartbeats/veitmaa_specification.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/12zf-t28y_-o9-WUshsIIEmLKefmEOo80/preview"
+  title="Gallery of Heartbeats specification"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>

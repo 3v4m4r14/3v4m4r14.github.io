@@ -16,4 +16,11 @@ Summarises the process of creating guidelines and specification for an automated
 
 Compiled attack-defence trees with various scenarios, investigated existing proctoring solutions, conducted user tests with Tobii eye-tracking technology, developed prototypes with off-the-shelf technology.
 
-<object data="{{ '/assets/docs/projects/bsc-thesis/veitmaa_bsc_thesis.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1q6GnKd1v_S_KKYH55aL4PqF6onaroqRi/preview"
+  title="BSc thesis by Eva Maria Veitmaa"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>

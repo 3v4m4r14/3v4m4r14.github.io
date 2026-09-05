@@ -39,7 +39,14 @@ The final deliverables were a pitch deck, a demo video, and a thorough report on
 
 ## Report
 
-<object data="{{ '/assets/docs/projects/worker/WorkER_final_report.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1Lx11GmtPK0W30fa9k_Cttyfim3gtss4F/preview"
+  title="WorkER final report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ##### Project Team:
 

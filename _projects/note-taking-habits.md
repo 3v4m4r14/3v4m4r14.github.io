@@ -37,4 +37,11 @@ Each method relied on the previous method meaning that every additional method w
 
 ## Research report
 
-<object data="{{ '/assets/docs/projects/note-taking-habits/veitmaa_research_report.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/16Geu6sFNVCF9cd3U3xZopm8fI0tIK3d-/preview"
+  title="WorkER final report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>

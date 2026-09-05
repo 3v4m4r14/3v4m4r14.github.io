@@ -18,4 +18,11 @@ This usability testing session was conducted during the course Human Computer In
 
 ## Report
 
-<object data="{{ '/assets/docs/projects/ms-word-usability-testing/DIA1_veitmaa.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1uTwsgZqIQwSKUoDu-YPFOkOdAViQfUHE/preview"
+  title="Usability Testing Report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>

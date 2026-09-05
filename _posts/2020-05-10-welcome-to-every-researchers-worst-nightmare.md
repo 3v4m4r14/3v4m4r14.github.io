@@ -107,4 +107,11 @@ Do interviews instead.
 
 On a side note, if anyone ever needs feedback on their survey or someone to do a pilot run with, let me know. I enjoy ripping surveys to shreds.
 
-<object data="{{ '/assets/docs/posts/welcome-to-every-researchers-worst-nightmare/Remote-Meeting-Experience.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/16Q598_808wL2pJg1xDwJqMKJwAPnjLwX/preview"
+  title="Remote Meeting Experience survey"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>

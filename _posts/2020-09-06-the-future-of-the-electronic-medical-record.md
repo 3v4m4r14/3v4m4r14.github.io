@@ -33,7 +33,7 @@ That being said, let’s also agree that we are designing for the **user being t
 
 ### Doctors say
 
-As it turns out, I actually did an [interview with a GP about 1.5 years ago]({{ '/assets/docs/posts/the-future-of-the-electronic-medical-record/Estonian-GP.pdf' | relative_url }}). The goal then was slightly different – to figure out problems in healthcare – but some insights are relevant still.
+As it turns out, I actually did an [interview with a GP about 1.5 years ago](https://drive.google.com/file/d/1rFIvV1-JEXAgPBML5ECVWhou20eFTQEk/view?usp=sharing). The goal then was slightly different – to figure out problems in healthcare – but some insights are relevant still.
 
 For example, **entering the information to an EHR takes a lot of time**. Typically, 20 minutes are allocated per patient. If the visit takes less time, the GP is able to enter the information about the visit to the EHR system before the next patient. Often, however, there is not ime for entering the information between patients, so the GP spends 2-3 hours at the end of her workday simply to enter the details about each visit of that day. This indicates a **need for faster and more convenient data entry**, perhaps through automation.
 

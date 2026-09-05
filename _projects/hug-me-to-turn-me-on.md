@@ -20,7 +20,14 @@ The shirt works on a principle of the lights turning on when the solar panel is 
 
 ## Report
 
-<object data="{{ '/assets/docs/projects/hug-me-to-turn-me-on/solar_power.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1MKqG7o2aRsI-vizEQCQH_hB9KALmlIhv/preview"
+  title="Solar-powered LED lights exploration"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ## More videos
 
