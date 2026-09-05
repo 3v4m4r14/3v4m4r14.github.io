@@ -18,7 +18,14 @@ EIT Digital Summer School Innovation & Entrepreneurship project on the topic of 
 
 ## Report
 
-<object data="{{ '/assets/docs/projects/physioplux/Lisbon_PhysioPlux.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1Z40HCSjAEwIZAJ6MjvbEexTZPvquit1d/preview"
+  title="Report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ### Project team
 

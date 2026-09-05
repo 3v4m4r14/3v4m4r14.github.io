@@ -18,7 +18,14 @@ _"Walk Over Me" demo video_
 
 ### Read the Paper
 
-<object data="{{ '/assets/docs/projects/walk-over-me/pictorial_ver3.2.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1PFYgZdl5RcmgpqvJ_OCPoVywEMUsLwi-/preview"
+  title="Report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ### Project Team
 
@@ -40,7 +47,14 @@ The application design is developed iteratively in close collaboration with the 
 
 ### Read the paper
 
-<object data="{{ '/assets/docs/projects/walk-over-me/walk_over_me_mobile_app_final_report.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1v9KK2ANZAC3PRv3yHmWMPp4yO6tKfEtw/preview"
+  title="Report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ### Project team
 
