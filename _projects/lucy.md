@@ -42,4 +42,11 @@ Thank you.
 
 ###### Presentation slides:
 
-<object data="{{ '/assets/docs/projects/lucy/lucy.pdf' | relative_url }}" type='application/pdf' width="100%" height="1000"></object>
+<iframe
+  src="https://drive.google.com/file/d/1tX1SHQJwqW46ZL235TvxNmjSZ1NIwO5g/preview"
+  title="Presentation"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>

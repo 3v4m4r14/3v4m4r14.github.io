@@ -14,7 +14,14 @@ EIT Digital Summer School Innovation & Entrepreneurship project on the topic of 
 
 ## Slides
 
-<object data="{{ '/assets/docs/projects/physioplux/PhysioPlux.pdf' | relative_url }}" type='application/pdf' width="100%" height="500"></object>
+<iframe
+  src="https://drive.google.com/file/d/1FuQpGEJTZ697fz-HZaW6QKdnGazmMg1d/preview"
+  title="Presentation"
+  width="100%"
+  height="500"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ## Report
 

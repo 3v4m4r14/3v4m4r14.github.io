@@ -41,7 +41,6 @@ Some of the features of the final design:
 
 {% include elements/video.html id="W6W9ZfuMcVI" %}
 
-
 ## Graphics
 
 ![](/assets/img/projects/13-seconds-why/concept-board_1.webp)
@@ -50,6 +49,16 @@ Some of the features of the final design:
  
 ![](/assets/img/projects/13-seconds-why/concept-board-3.webp)
 
+## Report
+
+<iframe
+  src="https://drive.google.com/file/d/1L5Pd7EB5Sv4gz8f7GM4WwTU7rBQIBHUy/preview"
+  title="Report"
+  width="100%"
+  height="650"
+  style="border: 0;"
+  loading="lazy">
+</iframe>
 
 ##### Team members:
 
