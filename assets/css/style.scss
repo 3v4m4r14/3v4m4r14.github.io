@@ -1,6 +1,6 @@
 ---
 ---
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap");
 @import "portfolYOU";
 
 .home-profile-image {
@@ -8,7 +8,7 @@
   width: 100%;
   max-width: 240px;
   aspect-ratio: 1;
-  margin: 0.5rem auto;
+  margin: 0.5rem auto 2rem;
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
@@ -17,6 +17,12 @@
 .home-title {
   font-size: clamp(1.25rem, 5.5vw, 2.5rem);
   font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.home-description {
+  font-size: 1.5rem;
+  font-weight: 300;
 }
 
 .blog-post-list {
