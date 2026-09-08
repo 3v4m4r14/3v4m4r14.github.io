@@ -1,6 +1,23 @@
 ---
 ---
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
 @import "portfolYOU";
+
+.home-profile-image {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  aspect-ratio: 1;
+  margin: 0.5rem auto;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-title {
+  font-size: clamp(1.25rem, 5.5vw, 2.5rem);
+  font-weight: 700;
+}
 
 .blog-post-list {
   display: block;
