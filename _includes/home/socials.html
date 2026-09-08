@@ -1,0 +1,15 @@
+<nav class="home-socials" aria-label="Social links">
+  {% for account in site.author %}
+    {% assign service_name = account[0] %}
+    {% assign service_data = site.data.social-media[service_name] %}
+    {% if service_data %}
+      <a
+        class="home-social-link"
+        href="{{ service_data.url | append: account[1] | escape }}"
+        aria-label="{{ service_name | capitalize | escape }}"
+      >
+        <i class="{{ service_data.icon | escape }}" aria-hidden="true"></i>
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>

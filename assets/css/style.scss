@@ -25,6 +25,40 @@
   font-weight: 300;
 }
 
+.home-socials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.home-social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 3rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: #1c1c1c;
+  color: #fff;
+  font-size: 1.25rem;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 3px solid #007bff;
+    outline-offset: 3px;
+  }
+}
+
 .blog-post-list {
   display: block;
 }

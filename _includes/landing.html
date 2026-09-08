@@ -10,7 +10,10 @@
 
     <h1 class="home-title wow animated slideInUp" data-wow-delay=".15s">{{ site.title | escape }}</h1>
 
-    <p class="home-description text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+    <div class="home-introduction wow animated slideInUp" data-wow-delay=".15s">
+      <p class="home-description text-muted">{{ site.description }}</p>
+      {% include home/socials.html %}
+    </div>
 
   </div>
 </div>
