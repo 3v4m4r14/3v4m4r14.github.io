@@ -74,8 +74,8 @@ analytics:
 buymeacoffee:
   enabled: true
   username: animatedchaos
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  color: "#57a352"
+  message: "Buy me a coffee!"                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
 
 

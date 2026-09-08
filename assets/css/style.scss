@@ -3,6 +3,86 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap");
 @import "portfolYOU";
 
+// Site accents; the named blog colour palettes remain unchanged.
+// Buy Me a Coffee has its own colour in _config.yml.
+$site-accent: #57a352;
+// Navigation underlines, including the current page and site name.
+.navbar .nav-link::after,
+.navbar .navbar-brand::after {
+  background-color: $site-accent;
+}
+
+// Match the theme's content links, excluding code highlighting.
+.markdown-body a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(:where(.highlight *, .gist *)),
+#attribution a {
+  color: $site-accent;
+
+  &:hover {
+    color: $site-accent;
+  }
+
+  &::after {
+    background-color: $site-accent;
+  }
+}
+
+.markdown-body blockquote {
+  border-left-color: $site-accent;
+}
+
+.markdown-body table:not(.highlight) th:not(:where(.highlight *)) {
+  background-color: $site-accent;
+}
+
+// Post tags and project tools use the site accent. Leave the global Bootstrap
+// colour utilities unchanged: blog cards use those for their color parameter.
+.post-metadata .tag,
+.project.card .badge {
+  color: $site-accent !important;
+  border-color: $site-accent !important;
+}
+
+.post-metadata .tag:hover {
+  background-color: $site-accent;
+  color: #fff !important;
+}
+
+// Bootstrap's colour utilities use !important, so these scoped overrides do too.
+#search-input + .input-group-append .input-group-text {
+  background-color: $site-accent !important;
+  border-color: $site-accent !important;
+}
+
+#search-input:focus {
+  border-color: $site-accent;
+}
+
+// The blog tags button and the 404 page's home button.
+.btn-outline-primary {
+  color: $site-accent;
+  border-color: $site-accent;
+
+  &:hover,
+  &:not(:disabled):not(.disabled):active,
+  &:not(:disabled):not(.disabled).active {
+    color: #fff;
+    background-color: $site-accent;
+    border-color: $site-accent;
+  }
+
+  &:focus,
+  &:not(:disabled):not(.disabled):active:focus,
+  &:not(:disabled):not(.disabled).active:focus {
+    box-shadow: 0 0 0 0.2rem rgba($site-accent, 0.5);
+  }
+
+  &:disabled,
+  &.disabled {
+    color: $site-accent;
+    background-color: transparent;
+  }
+}
+
 .home-profile-image {
   display: block;
   width: 100%;
