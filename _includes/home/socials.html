@@ -5,6 +5,7 @@
     {% if service_data %}
       <a
         class="home-social-link"
+        style="--social-brand-color: #{{ service_data.color | escape }};"
         href="{{ service_data.url | append: account[1] | escape }}"
         aria-label="{{ service_name | capitalize | escape }}"
       >
