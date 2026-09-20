@@ -7,8 +7,6 @@ tags:
 
 ---
 
-![](/assets/img/posts/uhhuuhu-delulu/IMG_4503.jpeg)
-
 Riskides kõlada pisut metsa poole, tahan jagada oma kogemust teemal mõtte jõud. Manifesteerimine. Energia. Võnked ja vibratsioonid.
 
 Ma ei tea, miks ma vabandan ja tunnen häbi, et räägin teemadel, mille kohta mõni võib öelda, et oi, ta on puhta nupust nikastanud ja loogika maha jätnud. See ei peaks nii olema. Mitu asja võivad korraga tõesed olla - loogika ning loodusseadused ja veel tundmatud energiaseadused, algosakeste vahelised võnked, mis töötavad meile arusaamatul moel. Päeva lõpuks ei lähe mulle korda, mida teised arvavad. Oluline on see, millesse ma ise usun. Minu enda kogemus. Kes ei taha, ei usu. Mina kedagi veenma ei hakka.
