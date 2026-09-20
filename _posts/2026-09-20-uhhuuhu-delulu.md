@@ -58,3 +58,5 @@ Olgu, mis ta oli - sellist manifesteerimist tahan kindlasti veel proovida. Eriti
 Viimastel aastatel on minu mantra olnud, et kõik on minu kasuks kaldu: "Everything is rigged in my favour". Mul on telefonis meeldetuletus - iga päev kell 11:11 teeb mu telefon kõll ja mu mõttest käib läbi "everything is rigged in my favour". Kui midagi läheb hästi, kinnitan seda lausega "everything is rigged in my favour". Kui midagi läheb pealntäha halvasti, sisendan endale, et "everything is rigged in my favour" ja et see tähendab hoopis midagi head. Ma siiralt usun, et see on minuni toonud selle pika nimekirja asjadest, mille üle tänulik olla.
 
 Ja kuigi ma algul ütlesin, et ma kedagi veenma ei hakka, siis... mida sul kaotada on, kui proovid oma mõtteid muuta?
+
+{% include elements/video.html id="rxhoDFdNhVk" %}
