@@ -1,5 +1,5 @@
 ---
-title: Maakad ei väärigi uhkeid asju
+title: About networking
 date: 
 image: 
 description:
