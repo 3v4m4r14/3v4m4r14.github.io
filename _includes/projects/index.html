@@ -1,0 +1,61 @@
+{%- comment -%}
+  Build sortable keys for both sources. Remote projects use repository creation
+  dates; local projects use their front matter dates. Pad Unix timestamps so
+  Liquid's string sort compares dates correctly across different years.
+{%- endcomment -%}
+
+{%- capture project_keys -%}
+  {%- for project in site.projects -%}
+    {{- project.date | date: '%s' | prepend: '00000000000000000000' | slice: -20, 20 -}}|local|{{ forloop.index0 }};
+  {%- endfor -%}
+  {%- for repo in site.github.public_repositories -%}
+    {%- if page.remote_projects contains repo.name -%}
+      {{- repo.created_at | date: '%s' | prepend: '00000000000000000000' | slice: -20, 20 -}}|remote|{{ forloop.index0 }};
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- assign sorted_project_keys = project_keys | split: ';' | sort | reverse -%}
+
+<div class="card-columns m-3 mt-5">
+  {% for project_key in sorted_project_keys %}
+    {%- assign key_parts = project_key | split: '|' -%}
+    {%- assign project_type = key_parts[1] -%}
+    {%- assign project_index = key_parts[2] | plus: 0 -%}
+
+    {%- if project_type == 'remote' -%}
+      {%- assign project = site.github.public_repositories[project_index] -%}
+      {%- assign words = project.name | split: '-' -%}
+
+      {%- capture titlecase -%}
+        {%- for word in words -%}
+          {{ word | capitalize | append: ' ' }}
+        {%- endfor -%}
+      {%- endcapture -%}
+
+      {%- assign project_id    = project.name -%}
+      {%- assign project_img   = false -%}
+      {%- assign project_name  = titlecase | strip -%}
+      {%- assign project_desc  = project.description -%}
+      {%- assign project_url   = project.html_url -%}
+      {%- assign project_tools = project.topics -%}
+      {%- assign external      = true -%}
+    {%- else -%}
+      {%- assign project = site.projects[project_index] -%}
+      {%- assign project_id    = project.name | slugify -%}
+      {%- assign project_img   = project.image -%}
+      {%- assign project_name  = project.name -%}
+      {%- assign project_desc  = project.description -%}
+      {%- assign project_tools = project.tools -%}
+
+      {%- if project.external_url -%}
+        {%- assign project_url = project.external_url -%}
+        {%- assign external    = true -%}
+      {%- else -%}
+        {%- assign project_url = project.url | relative_url -%}
+        {%- assign external    = false -%}
+      {%- endif -%}
+    {%- endif -%}
+
+    {% include projects/project-card.html %}
+  {% endfor %}
+</div>
