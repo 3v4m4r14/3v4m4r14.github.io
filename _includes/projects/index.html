@@ -16,7 +16,7 @@
 {%- endcapture -%}
 {%- assign sorted_project_keys = project_keys | split: ';' | sort | reverse -%}
 
-<div class="card-columns m-3 mt-5">
+<div class="project-gallery m-3 mt-5">
   {% for project_key in sorted_project_keys %}
     {%- assign key_parts = project_key | split: '|' -%}
     {%- assign project_type = key_parts[1] -%}
@@ -59,3 +59,4 @@
     {% include projects/project-card.html %}
   {% endfor %}
 </div>
+<script src="{{ '/assets/js/project-gallery.js' | relative_url }}" defer></script>

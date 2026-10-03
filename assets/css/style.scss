@@ -42,6 +42,37 @@ $site-accent: #57a352;
   border-color: $site-accent !important;
 }
 
+// Natural-height project tiles, assigned to columns from left to right.
+.project-gallery {
+  --project-columns: 1;
+  display: grid;
+  grid-template-columns: repeat(var(--project-columns), minmax(0, 1fr));
+  column-gap: 1.25rem;
+  align-items: start;
+
+  > div {
+    display: flow-root;
+    min-width: 0;
+  }
+
+  &[data-staggered] {
+    display: block;
+    position: relative;
+
+    > div {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  }
+}
+
+@media (min-width: 576px) {
+  .project-gallery {
+    --project-columns: 3;
+  }
+}
+
 .post-metadata .tag:hover {
   background-color: $site-accent;
   color: #fff !important;
